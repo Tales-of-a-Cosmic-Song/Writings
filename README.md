@@ -3,7 +3,7 @@ Poetry, mostly in French.
 
 # [Français](Français)
 
-Only writings in French.
+Only writings in French.  
 Textes uniquement en Français.
 
 # License
