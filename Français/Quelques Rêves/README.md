@@ -6,20 +6,20 @@
 	4. [Capitale de la Désolation](#capitale-de-la-désolation)
 	5. [Cavernes Insondées](#cavernes-insondées)
 2. [L’Éveil des Sens](#léveil-des-sens)
-	1. [Un Peintre Grisonnant](<#Un Peintre Grisonnant>)
-	2. [Chef d'Œuvre Macabre](<#Chef d'Œuvre Macabre>)
-3. [Les Démons Intérieurs](<#Les Démons Intérieurs>)
-	1. [L’Effondrement des Étoiles](<#L’Effondrement des Étoiles>)
-	2. [De l’Ombre au Néant](<#De l’Ombre au Néant>)
-	3. [Le Cycle du Condamné](<#Le Cycle du Condamné>)
-	4. [Exilé Dans les Étoiles](<#Exilé Dans les Étoiles>)
-	5. [Amour Rêvé](<#Amour Rêvé>)
-	6. [Ce Que Je Suis](<#Ce Que Je Suis>)
-	7. [L’Île aux Souvenirs](<#L’Île aux Souvenirs>)
-	8. [A Cœur Brisé](<#A Cœur Brisé>)
-4. [La Source](<#La Source>)
-	1. [L’inconcevable](<#L’inconcevable>)
-	2. [Le Chant Cosmique](<#Le Chant Cosmique>)
+	1. [Un Peintre Grisonnant](#un-peintre-grisonnant)
+	2. [Chef d'Œuvre Macabre](#chef-dœuvre-macabre)
+3. [Les Démons Intérieurs](#les-démons-intérieurs)
+	1. [L’Effondrement des Étoiles](#leffondrement-des-étoiles)
+	2. [De l’Ombre au Néant](#de-lombre-au-néant)
+	3. [Le Cycle du Condamné](#le-cycle-du-condamné)
+	4. [Exilé Dans les Étoiles](#exilé-dans-les-étoiles)
+	5. [Amour Rêvé](#amour-rêvé)
+	6. [Ce Que Je Suis](#ce-que-je-suis)
+	7. [L’Île aux Souvenirs](#lîle-aux-souvenirs)
+	8. [A Cœur Brisé](#a-cœur-brisé)
+4. [La Source](#la-source)
+	1. [L’Inconcevable](#linconcevable)
+	2. [Le Chant Cosmique](#le-chant-cosmique)
 
 ISBN : 978-2-9534317-1-1 - Hardcover  
 ISBN : 978-2-9534317-2-8 - eBook
@@ -515,7 +515,7 @@ De ta douceur je ne vois que l’horreur.
 
 ![La Source](<IV - La Source.png>)
 
-### L’inconcevable
+### L’Inconcevable
 
 1.
 Sans le voir ni le toucher,  
