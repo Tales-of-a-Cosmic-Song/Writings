@@ -1,7 +1,7 @@
 # Writings
 Poetry, mostly in French.
 
-# [English](English)
+# [English](English/Translations/)
 
 Texts in English only.  
 Currently only translations from a few of my French texts.
@@ -9,7 +9,12 @@ Currently only translations from a few of my French texts.
 # [Français](Français)
 
 Texts in French only.  
-Textes uniquement en Français.
+"Tales of a Cosmic Song" is "Contes d'un Chant Cosmique" in French.  
+
+---
+
+Textes uniquement en Français.  
+"Contes d'un Chant Cosmique" est "Tales of a Cosmic Song" en Anglais.
 
 # License
 
