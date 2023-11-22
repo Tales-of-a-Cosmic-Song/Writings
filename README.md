@@ -10,7 +10,7 @@ Textes uniquement en Français.
 
 Writings © 2019-present by Tales of a Cosmic Song are licensed under CC-BY-SA-4.0
 
-`SPDX-License-Identifier: CC-BY-SA-4.0`
+<!-- SPDX-License-Identifier: CC-BY-SA-4.0 -->
 
 ## [CC-BY-SA-4.0](LICENSE)
 
