@@ -18,7 +18,7 @@ Textes uniquement en Français.
 
 # License
 
-Writings © 2019-present by Tales of a Cosmic Song are licensed under CC-BY-SA-4.0
+Writings © 2018-present by Tales of a Cosmic Song are licensed under CC-BY-SA-4.0
 
 <!-- SPDX-License-Identifier: CC-BY-SA-4.0 -->
 
