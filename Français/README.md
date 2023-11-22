@@ -6,5 +6,5 @@ Court recueil de poèmes en vers et en prose, souvent sombres et abstraits trait
 
 Disponible sur [Amazon](https://www.amazon.com/Quelques-R%C3%A8ves-French-Emil-Novik/dp/2953431713) et [Barnes & Noble](https://www.barnesandnoble.com/w/quelques-r-ves-emil-novik/1130037961).
 
-ISBN : 978-2-9534317-1-1 - Hardcover
+ISBN : 978-2-9534317-1-1 - Hardcover  
 ISBN : 978-2-9534317-2-8 - eBook
