@@ -1,6 +1,11 @@
 # Writings
 Poetry, mostly in French.
 
+# [English](English)
+
+Texts in English only.  
+Currently only translations from a few of my French texts.
+
 # [Français](Français)
 
 Texts in French only.  

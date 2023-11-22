@@ -252,6 +252,12 @@ D’infinités d’un cycle répété,
 Peut-être même que ce cœur déchiré  
 m’a toujours et de bien loin précédé.  
 
+---
+
+[Traduction en Anglais](/English/Translations/The%20Collapse%20of%20the%20Stars.md)
+
+---
+
 ### De l’Ombre au Néant
 
 1.
@@ -363,6 +369,12 @@ Je suis déjà seul en ce monde désespéré.
 Ainsi du prochain coucher  
 Jamais je ne me réveillerai,  
 Je rejoindrai mon aimée pour l’éternité.  
+
+---
+
+[Traduction en Anglais](/English/Translations/Dreamed%20Love.md)
+
+---
 
 ### Ce Que Je Suis
 
