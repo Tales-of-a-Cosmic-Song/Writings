@@ -1,5 +1,13 @@
 # Writings
-Poetry, mostly in French.
+Litterary works, currently mostly in French.
+
+## Current Contents
+
+- English
+    - [Kisa Worldbuilding - Kivümi Language](/English/Kisa%20Worldbuilding/Kivümi%20Language/)
+    - [Translations of French Texts](/English/Translations/)
+- French
+    - [Quelques Rêves - Short Poetry Collection](/Français/Quelques%20Rêves/)
 
 # [English](English/Translations/)
 
