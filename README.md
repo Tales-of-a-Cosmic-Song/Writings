@@ -4,7 +4,6 @@ Poetry, mostly in French.
 # [English](English/Translations/)
 
 Texts in English only.  
-Currently only translations from a few of my French texts.
 
 # [Français](Français)
 

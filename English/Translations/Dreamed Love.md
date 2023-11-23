@@ -4,7 +4,7 @@ Tonight I met the unexpected,
 Gave birth to a creature  
 I can never erase from my memory.  
 From my mind was born my beloved,  
-The one who my heart struck down.  
+The one who struck my heart.  
 
 In a dream of boundless ocean  
 I wandered on my isolated island,  

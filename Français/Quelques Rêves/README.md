@@ -66,6 +66,12 @@ Voir un soleil se lever,
 Voir tous les arbres chanter,  
 Voir la terre se colorer.  
 
+---
+
+[Traduction en Anglais](/English/Translations/Dreaming%20Forest.md)
+
+---
+
 ### Lune Entre les Montagnes
 
 L'entrée en un nouveau monde  
