@@ -34,7 +34,7 @@ Perhaps a life of past colors
 Will be discovered on the other side.  
 
 Perhaps when all is erased,  
-From the void of my heart I'll be reborn.  
+From the void of my heart I will be reborn.  
 
 Perhaps I have already forgotten everything  
 Of infinities of a repeated cycle,  
