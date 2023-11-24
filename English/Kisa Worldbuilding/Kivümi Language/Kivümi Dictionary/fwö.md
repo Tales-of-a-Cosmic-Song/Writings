@@ -1,0 +1,13 @@
+
+# fwö
+
+<div align="right"><i>fwɔ</i></div>
+
+*noun*  
+**Definition :** trueness  
+
+---
+
+[Kivümi Language](../README.md)
+
+---

@@ -1,0 +1,13 @@
+
+# arö
+
+<div align="right"><i>arɔ</i></div>
+
+*noun*  
+**Definition :** purple  
+
+---
+
+[Kivümi Language](../README.md)
+
+---

@@ -1,0 +1,13 @@
+
+# lö
+
+<div align="right"><i>lɔ</i></div>
+
+*preposition*  
+**Definition :** in front of  
+
+---
+
+[Kivümi Language](../README.md)
+
+---
