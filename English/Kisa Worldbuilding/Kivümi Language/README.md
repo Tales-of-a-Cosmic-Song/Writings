@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The Kivümi language is a [constructed language](https://en.wikipedia.org/wiki/Constructed_language) spoken by [kivüs](<Kivümi Dictionary/kivü.md>), a humanoid species living on the island of [Kisa](<Kivümi Dictionary/Kisa.md>), on the planet [Begï](<Kivümi Dictionary/Begï.md>).  
+The Kivümi language is a [constructed language](https://en.wikipedia.org/wiki/Constructed_language) spoken by the [kivüs](<Kivümi Dictionary/kivü.md>), a humanoid species living on the island of [Kisa](<Kivümi Dictionary/Kisa.md>), on the planet [Begï](<Kivümi Dictionary/Begï.md>).  
 
 - [Suffixes](Suffixes.md)
 - [Verbs & Conjugation](<Verbs & Conjugation.md>)

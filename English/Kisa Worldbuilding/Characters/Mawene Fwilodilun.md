@@ -4,11 +4,11 @@
 <div align="right"><i>mawænæ fwilodilun</i></div>
 
 First of the Awakened [kivüs](../Kivümi%20Language/Kivümi%20Dictionary/kivü.md), spent hundreds of years in loneliness trying to awaken others.  
-Wrote his [Chronicles of Mawene Fwilodilun|Chronicles](<../Literature/Chronicles of Mawene Fwilodilun.md>), detailing their life and thoughts after their early awakening.  
+Wrote his [Chronicles of Mawene Fwilodilun](<../Literature/Chronicles of Mawene Fwilodilun.md>), detailing their life and thoughts after their early awakening.  
 
 ## 1. The First Awakening
 
-Mawene awakened due to the [Degeneration of the Yeki].  
+Mawene awakened due to the [Degeneration of the Yeki](<../History of Kisa.md#12--435-000---start-of-the-degeneration-of-the-yekis>).  
 They didn't notice they were different until some time had passed since their Awakening, their only defect being their free will.  
 
 ## 2. Mawene's Evolution Post Awakening
