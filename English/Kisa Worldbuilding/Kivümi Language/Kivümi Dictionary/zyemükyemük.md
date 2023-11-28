@@ -1,14 +1,18 @@
 
+# zyemükyemük
+
 <div align="right"><i>zjæmykjæmyk</i></div>
 
-#Encyclopedia #Dictionary #Definition #noun #zyemükyemük #zjæmykjæmyk #murder
-
-*noun*
-**Definition :** murder
+*noun*  
+**Definition :** murder  
 
 ---
 
-[[zye]] + mük + [[ye]] + mük
-law + *negation suffix* + life + *negation suffix*
+[zye](zye.md) + mük + [ye](ye.md) + mük  
+law + *negation suffix* + life + *negation suffix*  
+
+---
+
+[Kivümi Language](../README.md)
 
 ---

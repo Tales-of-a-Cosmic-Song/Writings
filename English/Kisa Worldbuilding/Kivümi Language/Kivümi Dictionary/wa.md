@@ -1,7 +1,13 @@
 
+# wa
+
 <div align="right"><i>wa</i></div>
 
-#Encyclopedia #Dictionary #Definition #noun #wa #wa #world
+*noun*  
+**Definition :** world  
 
-*noun*
-**Definition :** world
+---
+
+[Kivümi Language](../README.md)
+
+---

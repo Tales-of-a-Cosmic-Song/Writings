@@ -1,7 +1,13 @@
 
+# nwo
+
 <div align="right"><i>nwo</i></div>
 
-#Encyclopedia #Dictionary #Definition #noun #nwo #nwo #energy
+*noun*  
+**Definition :** energy  
 
-*noun*
-**Definition :** energy
+---
+
+[Kivümi Language](../README.md)
+
+---

@@ -1,7 +1,13 @@
 
+# wüwurovir
+
 <div align="right"><i>wywurovir</i></div>
 
-#Encyclopedia #Dictionary #Definition #verb #wüwurovir #wywurovir #toassociate
+*verb*  
+**Definition :** to associate (people)  
 
-*verb*
-**Definition :** to associate (people)
+---
+
+[Kivümi Language](../README.md)
+
+---

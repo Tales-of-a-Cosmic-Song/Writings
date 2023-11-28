@@ -1,7 +1,13 @@
 
+# olelod
+
 <div align="right"><i>olælod</i></div>
 
-#Encyclopedia #Dictionary #Definition #numeral #olelod #olælod #twentytwo
+*numeral*  
+**Definition :** twenty two  
 
-*numeral*
-**Definition :** twenty two
+---
+
+[Kivümi Language](../README.md)
+
+---

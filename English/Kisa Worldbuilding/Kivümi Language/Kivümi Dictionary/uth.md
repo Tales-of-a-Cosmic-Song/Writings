@@ -1,7 +1,13 @@
 
+# uth
+
 <div align="right"><i>uθ</i></div>
 
-#Encyclopedia #Dictionary #Definition #determiner #uth #uθ #all
+*determiner*  
+**Definition :** all  
 
-*determiner*
-**Definition :** all
+---
+
+[Kivümi Language](../README.md)
+
+---

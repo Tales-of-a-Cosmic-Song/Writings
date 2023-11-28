@@ -1,7 +1,13 @@
 
+# thavir
+
 <div align="right"><i>θavir</i></div>
 
-#Encyclopedia #Dictionary #Definition #verb #thavir #θavir #tohold
+*verb*  
+**Definition :** to hold  
 
-*verb*
-**Definition :** to hold
+---
+
+[Kivümi Language](../README.md)
+
+---

@@ -1,14 +1,18 @@
 
+# pëdo
+
 <div align="right"><i>pœdo</i></div>
 
-#Encyclopedia #Dictionary #Definition #noun #pëdo #pœdo #firstname
-
-*noun*
-**Definition :** first name
+*noun*  
+**Definition :** first name  
 
 ---
 
-[[pë]] + [[do]]
-name + oldness
+[pë](pë.md) + [do](do.md)  
+name + oldness  
+
+---
+
+[Kivümi Language](../README.md)
 
 ---

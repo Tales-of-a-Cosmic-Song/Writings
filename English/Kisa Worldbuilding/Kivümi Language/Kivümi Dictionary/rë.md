@@ -1,7 +1,13 @@
 
+# rë
+
 <div align="right"><i>rœ</i></div>
 
-#Encyclopedia #Dictionary #Definition #noun #rë #rœ #language
+*noun*  
+**Definition :** language  
 
-*noun*
-**Definition :** language
+---
+
+[Kivümi Language](../README.md)
+
+---

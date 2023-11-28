@@ -1,7 +1,13 @@
 
+# zgo
+
 <div align="right"><i>zgo</i></div>
 
-#Encyclopedia #Dictionary #Definition #noun #zgo #zgo #rightness
+*noun*  
+**Definition :** rightness  
 
-*noun*
-**Definition :** rightness
+---
+
+[Kivümi Language](../README.md)
+
+---

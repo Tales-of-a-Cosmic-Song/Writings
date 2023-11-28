@@ -1,7 +1,13 @@
 
+# trivir
+
 <div align="right"><i>trivir</i></div>
 
-#Encyclopedia #Dictionary #Definition #verb #trivir #trivir #tosing
+*verb*  
+**Definition :** to sing  
 
-*verb*
-**Definition :** to sing
+---
+
+[Kivümi Language](../README.md)
+
+---

@@ -1,7 +1,13 @@
 
+# vavir
+
 <div align="right"><i>vavir</i></div>
 
-#Encyclopedia #Dictionary #Definition #verb #vavir #vavir #toplay
+*verb*  
+**Definition :** to play  
 
-*verb*
-**Definition :** to play
+---
+
+[Kivümi Language](../README.md)
+
+---

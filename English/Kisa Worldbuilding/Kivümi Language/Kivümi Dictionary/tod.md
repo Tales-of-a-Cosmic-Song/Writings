@@ -1,7 +1,13 @@
 
+# tod
+
 <div align="right"><i>tod</i></div>
 
-#Encyclopedia #Dictionary #Definition #conjunction #tod #tod #because
+*conjunction*  
+**Definition :** because  
 
-*conjunction*
-**Definition :** because
+---
+
+[Kivümi Language](../README.md)
+
+---

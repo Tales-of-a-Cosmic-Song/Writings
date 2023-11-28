@@ -1,14 +1,18 @@
 
+# työnu
+
 <div align="right"><i>tjɔnu</i></div>
 
-#Encyclopedia #Dictionary #Definition #noun #työnu #tjɔnu #thunder
-
-*noun*
-**Definition :** thunder
+*noun*  
+**Definition :** thunder  
 
 ---
 
-[[työ]] + [[nu]]
-storm + light
+[työ](työ.md) + [nu](nu.md)  
+storm + light  
+
+---
+
+[Kivümi Language](../README.md)
 
 ---

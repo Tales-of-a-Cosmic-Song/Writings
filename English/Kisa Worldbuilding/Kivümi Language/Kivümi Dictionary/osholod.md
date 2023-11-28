@@ -1,7 +1,13 @@
 
+# osholod
+
 <div align="right"><i>oʃolod</i></div>
 
-#Encyclopedia #Dictionary #Definition #numeral #osholod #oʃolod #twentyone
+*numeral*  
+**Definition :** twenty one  
 
-*numeral*
-**Definition :** twenty one
+---
+
+[Kivümi Language](../README.md)
+
+---

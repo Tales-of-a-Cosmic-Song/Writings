@@ -1,14 +1,18 @@
 
+# senboti
+
 <div align="right"><i>sænboti</i></div>
 
-#Encyclopedia #Dictionary #Definition #adverb #senboti #sænboti #tomorrow
-
-*adverb*
-**Definition :** tomorrow
+*adverb*  
+**Definition :** tomorrow  
 
 ---
 
-[[sen]] + [[bo]] + [[ti]]
-after + sun + time
+[sen](sen.md) + [bo](bo.md) + [ti](ti.md)  
+after + sun + time  
+
+---
+
+[Kivümi Language](../README.md)
 
 ---

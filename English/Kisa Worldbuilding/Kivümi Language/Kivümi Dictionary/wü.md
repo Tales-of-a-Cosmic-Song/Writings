@@ -1,7 +1,13 @@
 
+# wü
+
 <div align="right"><i>wy</i></div>
 
-#Encyclopedia #Dictionary #Definition #noun #wü #wy #people
+*noun*  
+**Definition :** people  
 
-*noun*
-**Definition :** people
+---
+
+[Kivümi Language](../README.md)
+
+---

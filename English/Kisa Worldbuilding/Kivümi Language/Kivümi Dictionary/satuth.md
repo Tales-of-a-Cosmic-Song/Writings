@@ -1,14 +1,18 @@
 
+# satuth
+
 <div align="right"><i>satuθ</i></div>
 
-#Encyclopedia #Dictionary #Definition #noun #satuth #satuθ #civilization #world
-
-*noun*
-**Definition :** civilization, world
+*noun*  
+**Definition :** civilization, world  
 
 ---
 
-[[sa]] + [[uth]]
-home + all
+[sa](sa.md) + [uth](uth.md)  
+home + all  
+
+---
+
+[Kivümi Language](../README.md)
 
 ---

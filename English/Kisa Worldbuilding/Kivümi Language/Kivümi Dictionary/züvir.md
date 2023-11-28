@@ -1,7 +1,13 @@
 
+# züvir
+
 <div align="right"><i>zyvir</i></div>
 
-#Encyclopedia #Dictionary #Definition #verb #züvir #zyvir #towipe
+*verb*  
+**Definition :** to wipe  
 
-*verb*
-**Definition :** to wipe
+---
+
+[Kivümi Language](../README.md)
+
+---

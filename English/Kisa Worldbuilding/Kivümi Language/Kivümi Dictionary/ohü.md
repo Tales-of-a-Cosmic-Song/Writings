@@ -1,7 +1,13 @@
 
+# ohü
+
 <div align="right"><i>ohy</i></div>
 
-#Encyclopedia #Dictionary #Definition #noun #ohü #ohy #black
+*noun*  
+**Definition :** black  
 
-*noun*
-**Definition :** black
+---
+
+[Kivümi Language](../README.md)
+
+---

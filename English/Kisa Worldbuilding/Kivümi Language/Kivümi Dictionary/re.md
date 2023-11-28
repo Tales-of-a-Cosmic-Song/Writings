@@ -1,7 +1,13 @@
 
+# re
+
 <div align="right"><i>ræ</i></div>
 
-#Encyclopedia #Dictionary #Definition #pronoun #re #ræ #you
+*pronoun*  
+**Definition :** you (singular)  
 
-*pronoun*
-**Definition :** you (singular)
+---
+
+[Kivümi Language](../README.md)
+
+---

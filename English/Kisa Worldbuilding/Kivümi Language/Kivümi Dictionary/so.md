@@ -1,7 +1,13 @@
 
+# so
+
 <div align="right"><i>so</i></div>
 
-#Encyclopedia #Dictionary #Definition #pronoun #so #so #this
+*pronoun*  
+**Definition :** this  
 
-*pronoun*
-**Definition :** this
+---
+
+[Kivümi Language](../README.md)
+
+---

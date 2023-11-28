@@ -1,14 +1,18 @@
 
+# nwowikvira
+
 <div align="right"><i>nwowikvira</i></div>
 
-#Encyclopedia #Dictionary #Definition #noun #nwowikvira #nwowikvira #spell
-
-*noun*
-**Definition :** (magic/energy power) spell
+*noun*  
+**Definition :** (magic/energy power) spell  
 
 ---
 
-[[nwo]] + [[wik]] + [[vir]]
-energy + art + to do
+[nwo](nwo.md) + [wik](wik.md) + [vir](vir.md)  
+energy + art + to do  
+
+---
+
+[Kivümi Language](../README.md)
 
 ---

@@ -1,14 +1,18 @@
 
+# rëthknahothü
+
 <div align="right"><i>rœθknahoθy</i></div>
 
-#Encyclopedia #Dictionary #Definition #noun #rëthknahothü #rœθknahoθy #history
-
-*noun*
-**Definition :** history
+*noun*  
+**Definition :** history  
 
 ---
 
-[[rë]] + [[kna]] + [[oth]]
-language + year + many
+[rë](rë.md) + [kna](kna.md) + [oth](oth.md)  
+language + year + many  
+
+---
+
+[Kivümi Language](../README.md)
 
 ---

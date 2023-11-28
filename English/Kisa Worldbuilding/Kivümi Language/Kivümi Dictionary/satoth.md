@@ -1,14 +1,14 @@
 
+# satoth
+
 <div align="right"><i>satoθ</i></div>
 
-#Encyclopedia #Dictionary #Definition #noun #satoth #satoθ #city #largesettlement
-
-*noun*
-**Definition :** city, large settlement
+*noun*  
+**Definition :** city, large settlement  
 
 ---
 
-[[sa]] + [[oth]]
-home + many
+[sa](sa.md) + [oth](oth.md)  
+home + many  
 
 ---

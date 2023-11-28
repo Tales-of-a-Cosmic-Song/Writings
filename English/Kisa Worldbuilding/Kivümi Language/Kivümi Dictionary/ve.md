@@ -1,7 +1,13 @@
 
+# ve
+
 <div align="right"><i>væ</i></div>
 
-#Encyclopedia #Dictionary #Definition #noun #ve #væ #breast
+*noun*  
+**Definition :** breast  
 
-*noun*
-**Definition :** breast
+---
+
+[Kivümi Language](../README.md)
+
+---

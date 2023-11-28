@@ -1,7 +1,13 @@
 
+# së
+
 <div align="right"><i>sœ</i></div>
 
-#Encyclopedia #Dictionary #Definition #noun #së #sœ #correctness
+*noun*  
+**Definition :** correctness  
 
-*noun*
-**Definition :** correctness
+---
+
+[Kivümi Language](../README.md)
+
+---

@@ -1,7 +1,13 @@
 
+# ta
+
 <div align="right"><i>ta</i></div>
 
-#Encyclopedia #Dictionary #Definition #noun #ta #ta #right
+*noun*  
+**Definition :** right  
 
-*noun*
-**Definition :** right
+---
+
+[Kivümi Language](../README.md)
+
+---

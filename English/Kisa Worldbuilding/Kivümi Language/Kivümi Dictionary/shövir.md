@@ -1,7 +1,13 @@
 
+# shövir
+
 <div align="right"><i>ʃɔvir</i></div>
 
-#Encyclopedia #Dictionary #Definition #verb #shövir #ʃɔvir #tocreate
+*verb*  
+**Definition :** to create  
 
-*verb*
-**Definition :** to create
+---
+
+[Kivümi Language](../README.md)
+
+---

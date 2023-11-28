@@ -1,7 +1,13 @@
 
+# shpe
+
 <div align="right"><i>ʃpæ</i></div>
 
-#Encyclopedia #Dictionary #Definition #noun #shpe #ʃpæ #sound
+*noun*  
+**Definition :** sound  
 
-*noun*
-**Definition :** sound
+---
+
+[Kivümi Language](../README.md)
+
+---

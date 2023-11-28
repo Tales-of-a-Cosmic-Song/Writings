@@ -1,7 +1,13 @@
 
+# podin
+
 <div align="right"><i>podin</i></div>
 
-#Encyclopedia #Dictionary #Definition #adjective #podin #podin #thick
+*adjective*  
+**Definition :** thick  
 
-*adjective*
-**Definition :** thick
+---
+
+[Kivümi Language](../README.md)
+
+---

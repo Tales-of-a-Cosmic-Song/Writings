@@ -1,7 +1,13 @@
 
+# vir
+
 <div align="right"><i>vir</i></div>
 
-#Encyclopedia #Dictionary #Definition #verb #vir #vir #todo
+*verb*  
+**Definition :** to do  
 
-*verb*
-**Definition :** to do
+---
+
+[Kivümi Language](../README.md)
+
+---

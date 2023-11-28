@@ -1,14 +1,18 @@
 
+# shwomö
+
 <div align="right"><i>ʃwomɔ</i></div>
 
-#Encyclopedia #Dictionary #Definition #noun #shwomö #ʃwomɔ #week
-
-*noun*
-**Definition :** week
+*noun*  
+**Definition :** week  
 
 ---
 
-[[shwo]] + [[mö]]
-cycle + smallness
+[shwo](shwo.md) + [mö](mö.md)  
+cycle + smallness  
+
+---
+
+[Kivümi Language](../README.md)
 
 ---

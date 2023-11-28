@@ -1,7 +1,13 @@
 
+# rüvir
+
 <div align="right"><i>ryvir</i></div>
 
-#Encyclopedia #Dictionary #Definition #verb #rüvir #ryvir #tostand
+*verb*  
+**Definition :** to stand  
 
-*verb*
-**Definition :** to stand
+---
+
+[Kivümi Language](../README.md)
+
+---

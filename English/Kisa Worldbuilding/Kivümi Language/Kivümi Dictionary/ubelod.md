@@ -1,7 +1,13 @@
 
+# ubelod
+
 <div align="right"><i>ubælod</i></div>
 
-#Encyclopedia #Dictionary #Definition #numeral #ubelod #ubælod #eight
+*numeral*  
+**Definition :** eight  
 
-*numeral*
-**Definition :** eight
+---
+
+[Kivümi Language](../README.md)
+
+---

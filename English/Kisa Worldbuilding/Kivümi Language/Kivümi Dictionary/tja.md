@@ -1,7 +1,13 @@
 
+# tja
+
 <div align="right"><i>tʐa</i></div>
 
-#Encyclopedia #Dictionary #Definition #preposition #tja #tʐa #to
+*preposition*  
+**Definition :** to  
 
-*preposition*
-**Definition :** to
+---
+
+[Kivümi Language](../README.md)
+
+---

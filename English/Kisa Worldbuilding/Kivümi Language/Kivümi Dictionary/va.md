@@ -1,7 +1,13 @@
 
+# va
+
 <div align="right"><i>va</i></div>
 
-#Encyclopedia #Dictionary #Definition #noun #va #va #game
+*noun*  
+**Definition :** game  
 
-*noun*
-**Definition :** game
+---
+
+[Kivümi Language](../README.md)
+
+---

@@ -1,7 +1,13 @@
 
+# swo
+
 <div align="right"><i>swo</i></div>
 
-#Encyclopedia #Dictionary #Definition #noun #swo #swo #learn
+*noun*  
+**Definition :** learn  
 
-*noun*
-**Definition :** learn
+---
+
+[Kivümi Language](../README.md)
+
+---

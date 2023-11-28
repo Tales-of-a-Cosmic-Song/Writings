@@ -1,14 +1,16 @@
-
+# rakati
 <div align="right"><i>rakati</i></div>
 
-#Encyclopedia #Dictionary #Definition #noun #rakati #rakati #present
-
-*noun*
-**Definition :** present (time)
+*noun*  
+**Definition :** present (time)  
 
 ---
 
-[[rak]] + [[ti]]
-now + time
+[rak](rak.md) + [ti](ti.md)  
+now + time  
+
+---
+
+[Kivümi Language](../README.md)
 
 ---

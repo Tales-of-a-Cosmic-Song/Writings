@@ -1,7 +1,13 @@
 
+# vo
+
 <div align="right"><i>vo</i></div>
 
-#Encyclopedia #Dictionary #Definition #noun #vo #vo #goodness
+*noun*  
+**Definition :** goodness  
 
-*noun*
-**Definition :** goodness
+---
+
+[Kivümi Language](../README.md)
+
+---

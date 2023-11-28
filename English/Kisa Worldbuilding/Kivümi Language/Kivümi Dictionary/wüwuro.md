@@ -1,16 +1,22 @@
 
+# wüwuro
+
 <div align="right"><i>wywuro</i></div>
 
-#Encyclopedia #Dictionary #Definition #noun #wüwuro #wywuro #association
-
-*noun*
-**Definition :** association
-
-Association of people
+*noun*  
+**Definition :** association  
 
 ---
 
-[[wü]] + [[wur]]
-people + together
+[wü](wü.md) + [wur](wur.md)  
+people + together  
+
+---
+
+Association of people  
+
+---
+
+[Kivümi Language](../README.md)
 
 ---

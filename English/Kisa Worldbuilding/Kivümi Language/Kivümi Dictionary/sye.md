@@ -1,7 +1,13 @@
 
+
+# sye
 <div align="right"><i>sjæ</i></div>
 
-#Encyclopedia #Dictionary #Definition #noun #sye #sjæ #path
+*noun*  
+**Definition :** path  
 
-*noun*
-**Definition :** path
+---
+
+[Kivümi Language](../README.md)
+
+---

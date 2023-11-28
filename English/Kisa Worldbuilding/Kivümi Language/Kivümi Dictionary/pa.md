@@ -1,7 +1,13 @@
 
+# pa
+
 <div align="right"><i>pa</i></div>
 
-#Encyclopedia #Dictionary #Definition #noun #pa #pa #heart
+*noun*  
+**Definition :** heart  
 
-*noun*
-**Definition :** heart
+---
+
+[Kivümi Language](../README.md)
+
+---

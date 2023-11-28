@@ -1,14 +1,18 @@
 
+# shuke
+
 <div align="right"><i>ʃukæ</i></div>
 
-#Encyclopedia #Dictionary #Definition #noun #shuke #ʃukæ #infusion
-
-*noun*
-**Definition :** infusion
+*noun*  
+**Definition :** infusion  
 
 ---
 
-[[shu]] + [[ke]]
-leaf + water
+[shu](shu.md) + [ke](ke.md)  
+leaf + water  
+
+---
+
+[Kivümi Language](../README.md)
 
 ---

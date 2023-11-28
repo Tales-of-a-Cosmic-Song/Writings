@@ -1,7 +1,13 @@
 
+# sha
+
 <div align="right"><i>ʃa</i></div>
 
-#Encyclopedia #Dictionary #Definition #noun #sha #ʃa #hair
+*noun*  
+**Definition :** hair 
 
-*noun*
-**Definition :** hair
+---
+
+[Kivümi Language](../README.md)
+
+---

@@ -1,7 +1,13 @@
 
+# shwo
+
 <div align="right"><i>ʃwo</i></div>
 
-#Encyclopedia #Dictionary #Definition #noun #shwo #ʃwo #cycle
+*noun*  
+**Definition :** cycle  
 
-*noun*
-**Definition :** cycle
+---
+
+[Kivümi Language](../README.md)
+
+---

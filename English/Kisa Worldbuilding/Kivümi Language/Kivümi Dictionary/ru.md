@@ -1,7 +1,13 @@
 
+# ru
+
 <div align="right"><i>ru</i></div>
 
-#Encyclopedia #Dictionary #Definition #noun #ru #ru #sit
+*noun*  
+**Definition :** sit  
 
-*noun*
-**Definition :** sit
+---
+
+[Kivümi Language](../README.md)
+
+---

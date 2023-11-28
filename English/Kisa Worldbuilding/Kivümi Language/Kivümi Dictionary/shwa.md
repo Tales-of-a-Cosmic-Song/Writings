@@ -1,7 +1,13 @@
 
+# shwa
+
 <div align="right"><i>ʃwa</i></div>
 
-#Encyclopedia #Dictionary #Definition #noun #shwa #ʃwa #rottenness
+*noun*  
+**Definition :** rottenness  
 
-*noun*
-**Definition :** rottenness
+---
+
+[Kivümi Language](../README.md)
+
+---

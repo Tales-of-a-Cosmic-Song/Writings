@@ -1,7 +1,13 @@
 
+# utülod
+
 <div align="right"><i>utylod</i></div>
 
-#Encyclopedia #Dictionary #Definition #numeral #utülod #utylod #nine
+*numeral*  
+**Definition :** nine  
 
-*numeral*
-**Definition :** nine
+---
+
+[Kivümi Language](../README.md)
+
+---

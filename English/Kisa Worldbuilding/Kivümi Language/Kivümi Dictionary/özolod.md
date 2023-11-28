@@ -1,7 +1,13 @@
 
+# özolod
+
 <div align="right"><i>ɔzolod</i></div>
 
-#Encyclopedia #Dictionary #Definition #numeral #özolod #ɔzolod #thirteen
+*numeral*  
+**Definition :** thirteen  
 
-*numeral*
-**Definition :** thirteen
+---
+
+[Kivümi Language](../README.md)
+
+---

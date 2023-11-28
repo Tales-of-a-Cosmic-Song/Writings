@@ -1,7 +1,13 @@
 
+# ushöfülod
+
 <div align="right"><i>uʃɔfylod</i></div>
 
-#Encyclopedia #Dictionary #Definition #numeral #ushöfülod #uʃɔfylod #sixteen
+*numeral*  
+**Definition :** sixteen  
 
-*numeral*
-**Definition :** sicteen
+---
+
+[Kivümi Language](../README.md)
+
+---

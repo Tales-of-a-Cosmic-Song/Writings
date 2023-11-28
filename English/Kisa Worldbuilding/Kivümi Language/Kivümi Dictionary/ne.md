@@ -1,7 +1,13 @@
 
+# ne
+
 <div align="right"><i>næ</i></div>
 
-#Encyclopedia #Dictionary #Definition #noun #ne #næ #fall
+*noun*  
+**Definition :** fall  
 
-*noun*
-**Definition :** fall
+---
+
+[Kivümi Language](../README.md)
+
+---

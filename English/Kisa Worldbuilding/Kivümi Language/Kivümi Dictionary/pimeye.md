@@ -1,14 +1,18 @@
 
+# pimeye
+
 <div align="right"><i>pimæjæ</i></div>
 
-#Encyclopedia #Dictionary #Definition #noun #pimeye #pimæjæ #worm #species
-
-*noun*
-**Definition :** worm
+*noun*  
+**Definition :** worm  
 
 ---
 
-pi + [[me]] + [[ye]]
-*unknown* + movement + life
+*pi* + [me](me.md) + [ye](ye.md)  
+*unknown* + movement + life  
+
+---
+
+[Kivümi Language](../README.md)
 
 ---

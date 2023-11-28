@@ -1,7 +1,13 @@
 
+# yivir
+
 <div align="right"><i>jivir</i></div>
 
-#Encyclopedia #Dictionary #Definition #verb #yivir #jivir #toknow
+*verb*  
+**Definition :** to know  
 
-*verb*
-**Definition :** to know
+---
+
+[Kivümi Language](../README.md)
+
+---

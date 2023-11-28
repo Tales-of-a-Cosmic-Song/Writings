@@ -1,7 +1,13 @@
 
+# tovir
+
 <div align="right"><i>tovir</i></div>
 
-#Encyclopedia #Dictionary #Definition #verb #tovir #tovir #tosee
+*verb*  
+**Definition :** to see  
 
-*verb*
-**Definition :** to see
+---
+
+[Kivümi Language](../README.md)
+
+---

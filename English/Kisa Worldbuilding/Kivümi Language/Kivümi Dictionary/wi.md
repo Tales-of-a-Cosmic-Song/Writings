@@ -1,7 +1,13 @@
 
+# wi
+
 <div align="right"><i>wi</i></div>
 
-#Encyclopedia #Dictionary #Definition #noun #wi #wi #pull
+*noun*  
+**Definition :** pull  
 
-*noun*
-**Definition :** pull
+---
+
+[Kivümi Language](../README.md)
+
+---

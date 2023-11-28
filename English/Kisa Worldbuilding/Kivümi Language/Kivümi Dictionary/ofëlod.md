@@ -1,7 +1,13 @@
 
+# ofëlod
+
 <div align="right"><i>ofœlod</i></div>
 
-#Encyclopedia #Dictionary #Definition #numeral #ofëlod #ofœlod #twentyfive
+*numeral*  
+**Definition :** twenty five  
 
-*numeral*
-**Definition :** twenty five
+---
+
+[Kivümi Language](../README.md)
+
+---

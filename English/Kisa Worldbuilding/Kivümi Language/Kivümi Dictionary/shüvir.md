@@ -1,7 +1,13 @@
 
+# shüvir
+
 <div align="right"><i>ʃyvir</i></div>
 
-#Encyclopedia #Dictionary #Definition #verb #shüvir #ʃyvir #tobreathe
+*verb*  
+**Definition :** to breathe  
 
-*verb*
-**Definition :** to breathe
+---
+
+[Kivümi Language](../README.md)
+
+---

@@ -1,7 +1,13 @@
 
+# shwadin
+
 <div align="right"><i>ʃwadin</i></div>
 
-#Encyclopedia #Dictionary #Definition #adjective #shwadin #ʃwadin #rotten
+*adjective*  
+**Definition :** rotten  
 
-*adjective*
-**Definition :** rotten
+---
+
+[Kivümi Language](../README.md)
+
+---

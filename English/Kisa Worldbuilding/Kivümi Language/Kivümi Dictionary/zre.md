@@ -1,7 +1,13 @@
 
+# zre
+
 <div align="right"><i>zræ</i></div>
 
-#Encyclopedia #Dictionary #Definition #noun #zre #zræ #order
+*noun*  
+**Definition :** order  
 
-*noun*
-**Definition :** order
+---
+
+[Kivümi Language](../README.md)
+
+---

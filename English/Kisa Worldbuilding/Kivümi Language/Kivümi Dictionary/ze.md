@@ -1,7 +1,13 @@
 
+# ze
+
 <div align="right"><i>zæ</i></div>
 
-#Encyclopedia #Dictionary #Definition #noun #ze #zæ #turn
+*noun*  
+**Definition :** turn  
 
-*noun*
-**Definition :** turn
+---
+
+[Kivümi Language](../README.md)
+
+---

@@ -1,14 +1,18 @@
 
+# nwowik
+
 <div align="right"><i>nwowik</i></div>
 
-#Encyclopedia #Dictionary #Definition #noun #nwowik #nwowik #magic #energypower
-
-*noun*
-**Definition :** magic, energy power
+*noun*  
+**Definition :** magic, energy power  
 
 ---
 
-[[nwo]] + [[wik]]
-energy + art
+[nwo](nwo.md) + [wik](wik.md)  
+energy + art  
+
+---
+
+[Kivümi Language](../README.md)
 
 ---

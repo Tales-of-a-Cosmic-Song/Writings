@@ -1,14 +1,18 @@
 
+# nubyevi
+
 <div align="right"><i>nubjævi</i></div>
 
-#Encyclopedia #Dictionary #Definition #noun #nubyevi #nubjævi #firstmonth #firstseason #firstboshwo 
-
-*noun*
-**Definition :** first month, season, [[boshwo]]
+*noun*  
+**Definition :** first month, season, [boshwo](boshwo.md)  
 
 ---
 
-[[nu]] + [[byevir]]
-light + to elevate
+[nu](nu.md) + [byevir](byevir.md)  
+light + to elevate  
+
+---
+
+[Kivümi Language](../README.md)
 
 ---

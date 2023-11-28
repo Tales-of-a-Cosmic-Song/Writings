@@ -1,14 +1,18 @@
 
+# wuhuth
+
 <div align="right"><i>wyhuθ</i></div>
 
-#Encyclopedia #Dictionary #Definition #noun #wühuth #wyhuθ #civilization
-
-*noun*
-**Definition :** civilization
+*noun*  
+**Definition :** civilization  
 
 ---
 
-[[wü]] + [[uth]]
-people + all
+[wü](wü.md) + [uth](uth.md)  
+people + all  
+
+---
+
+[Kivümi Language](../README.md)
 
 ---

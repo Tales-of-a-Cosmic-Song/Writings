@@ -1,7 +1,13 @@
 
+# thovir
+
 <div align="right"><i>θovir</i></div>
 
-#Encyclopedia #Dictionary #Definition #verb #thovir #θovir #tosqueeze
+*verb*  
+**Definition :** to squeeze  
 
-*verb*
-**Definition :** to squeeze
+---
+
+[Kivümi Language](../README.md)
+
+---

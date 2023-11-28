@@ -1,7 +1,13 @@
 
+# sa
+
 <div align="right"><i>sa</i></div>
 
-#Encyclopedia #Dictionary #Definition #noun #sa #sa #home
+*noun*  
+**Definition :** home  
 
-*noun*
-**Definition :** home
+---
+
+[Kivümi Language](../README.md)
+
+---

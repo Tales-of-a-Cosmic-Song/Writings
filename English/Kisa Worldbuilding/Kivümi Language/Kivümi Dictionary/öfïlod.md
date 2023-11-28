@@ -1,7 +1,13 @@
 
+# öfilod
+
 <div align="right"><i>ɔfɞlod</i></div>
 
-#Encyclopedia #Dictionary #Definition #numeral #öfïlod #ɔfɞlod #seventeen
+*numeral*  
+**Definition :** seventeen  
 
-*numeral*
-**Definition :** seventeen
+---
+
+[Kivümi Language](../README.md)
+
+---

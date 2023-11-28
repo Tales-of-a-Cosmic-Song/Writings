@@ -1,14 +1,18 @@
 
+# wüklö
+
 <div align="right"><i>wyklɔ</i></div>
 
-#Encyclopedia #Dictionary #Definition #noun #wüklö #wyklɔ #loneliness
-
-*noun*
-**Definition :** loneliness
+*noun*  
+**Definition :** loneliness  
 
 ---
 
-[[wü]] + [[klö]]
-people + emptyness
+[wü](wü.md) + [klö](klö.md)  
+people + emptyness  
+
+---
+
+[Kivümi Language](../README.md)
 
 ---

@@ -1,7 +1,13 @@
 
+# ri
+
 <div align="right"><i>ri</i></div>
 
-#Encyclopedia #Dictionary #Definition #noun #ri #ri #tongue
+*noun*  
+**Definition :** tongue  
 
-*noun*
-**Definition :** tongue
+---
+
+[Kivümi Language](../README.md)
+
+---

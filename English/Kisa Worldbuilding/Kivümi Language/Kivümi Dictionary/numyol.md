@@ -1,14 +1,18 @@
 
+# numyol
+
 <div align="right"><i>numjol</i></div>
 
-#Encyclopedia #Dictionary #Definition #noun #numyol #numjol #secondmonth #secondseason #secondboshwo 
-
-*noun*
-**Definition :** second month, season, [[boshwo]]
+*noun*  
+**Definition :** second month, season, [boshwo](boshwo.md)  
 
 ---
 
-[[nu]] + [[myo]]
-light + greatness
+[nu](nu.md) + [myo](myo.md)  
+light + greatness  
+
+---
+
+[Kivümi Language](../README.md)
 
 ---

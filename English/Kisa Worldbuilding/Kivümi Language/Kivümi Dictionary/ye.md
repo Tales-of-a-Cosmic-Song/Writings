@@ -1,7 +1,13 @@
 
+# ye
+
 <div align="right"><i>jæ</i></div>
 
-#Encyclopedia #Dictionary #Definition #noun #ye #jæ #life
+*noun*  
+**Definition :** life  
 
-*noun*
-**Definition :** life
+---
+
+[Kivümi Language](../README.md)
+
+---

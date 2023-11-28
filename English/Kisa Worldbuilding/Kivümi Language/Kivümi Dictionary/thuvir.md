@@ -1,7 +1,13 @@
 
+# thudir
+
 <div align="right"><i>θuvir</i></div>
 
-#Encyclopedia #Dictionary #Definition #verb #thuvir #θuvir #toclean
+*verb*  
+**Definition :** to clean  
 
-*verb*
-**Definition :** to clean
+---
+
+[Kivümi Language](../README.md)
+
+---

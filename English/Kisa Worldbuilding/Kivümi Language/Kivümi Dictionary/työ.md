@@ -1,7 +1,13 @@
 
+# työ
+
 <div align="right"><i>tjɔ</i></div>
 
-#Encyclopedia #Dictionary #Definition #noun #työ #tjɔ #storm
+*noun*  
+**Definition :** storm  
 
-*noun*
-**Definition :** storm
+---
+
+[Kivümi Language](../README.md)
+
+---

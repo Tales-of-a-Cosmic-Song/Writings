@@ -1,7 +1,13 @@
 
+# wur
+
 <div align="right"><i>wur</i></div>
 
-#Encyclopedia #Dictionary #Definition #adverb #wur #wur #together
+*adverb*  
+**Definition :** together  
 
-*adverb*
-**Definition :** together
+---
+
+[Kivümi Language](../README.md)
+
+---

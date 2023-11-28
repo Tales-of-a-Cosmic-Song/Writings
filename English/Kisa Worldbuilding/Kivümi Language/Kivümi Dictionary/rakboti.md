@@ -1,14 +1,18 @@
 
+# rakboti
+
 <div align="right"><i>rakboti</i></div>
 
-#Encyclopedia #Dictionary #Definition #adverb #rakboti #rakboti #today
-
-*adverb*
-**Definition :** today
+*adverb*  
+**Definition :** today  
 
 ---
 
-[[rak]] + [[bo]] + [[ti]]
-now + sun + time
+[rak](rak.md) + [bo](bo.md) + [ti](ti.md)  
+now + sun + time  
+
+---
+
+[Kivümi Language](../README.md)
 
 ---

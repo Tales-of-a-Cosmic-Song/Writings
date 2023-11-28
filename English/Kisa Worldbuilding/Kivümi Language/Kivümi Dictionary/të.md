@@ -1,7 +1,13 @@
 
+tö
+
 <div align="right">tœ<i></i></div>
 
-#Encyclopedia #Dictionary #Definition #noun #të #tœ #shortness
+*noun*  
+**Definition :** shortness  
 
-*noun*
-**Definition :** shortness
+---
+
+[Kivümi Language](../README.md)
+
+---
