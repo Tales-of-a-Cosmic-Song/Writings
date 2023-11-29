@@ -1,19 +1,22 @@
-# Writings
-Litterary works, currently mostly in French.
 
-## Current Contents
+# Writings
+
+Litterary works.
+
+## 1. Current Contents
 
 - English
-    - [Kisa Worldbuilding - Kivümi Language](/English/Kisa%20Worldbuilding/Kivümi%20Language/)
+    - [Kisa Worldbuilding](<English/Kisa Worldbuilding/>)
+        - [Kivümi Language](<English/Kisa Worldbuilding/Kivümi Language/>)
     - [Translations of French Texts](/English/Translations/)
 - French
     - [Quelques Rêves - Short Poetry Collection](/Français/Quelques%20Rêves/)
 
-# [English](English/Translations/)
+## 2. [English](English/Translations/)
 
 Texts in English only.  
 
-# [Français](Français)
+## 3. [Français](Français)
 
 Texts in French only.  
 "Tales of a Cosmic Song" is "Contes d'un Chant Cosmique" in French.  
