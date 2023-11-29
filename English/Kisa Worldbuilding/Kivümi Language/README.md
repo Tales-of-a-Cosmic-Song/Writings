@@ -1,14 +1,28 @@
 # The Kivümi Language
 
-## Introduction
+## 1. Introduction
 
-The Kivümi language is a [constructed language](https://en.wikipedia.org/wiki/Constructed_language) spoken by the [kivüs](<Kivümi Dictionary/kivü.md>), a humanoid species living on the island of [Kisa](<Kivümi Dictionary/Kisa.md>), on the planet [Begï](<Kivümi Dictionary/Begï.md>).  
+The Kivümi language is a [constructed language](https://en.wikipedia.org/wiki/Constructed_language) spoken by the [kivüs](<Kivümi Dictionary/kivü.md>), a humanoid species living on the island of [Kisa](<Kivümi Dictionary/Kisa.md>), on the planet [Begï](<Kivümi Dictionary/Begï.md>). 
 
-- [Suffixes](Suffixes.md)
+## 2. Articles
+
+- [Suffixes](<Suffixes.md>)
 - [Verbs & Conjugation](<Verbs & Conjugation.md>)
-- [Numbers](Numbers.md)
-- [Script](Script.md)
+- [Numbers](<Numbers.md>)
+- [Script](<Script.md>)
 - [Word Order](<Word Order.md>)
-- [Punctuation](Punctuation.md)
+- [Punctuation](<Punctuation.md>)
 - [Preposition Phrases](<Preposition Phrases.md>)
-- [Translation Examples](Translations)
+- [Pronouns](<Pronouns.md>)
+- [Prepositions](<./Prepositions.md>)
+- [Adverbs](<./Adverbs.md>)
+- [Cunjunctions](<./Cunjunctions.md>)
+- [Determiners](<./Determiners.md>)
+- [Question Words](./Question%20Words.md)
+- [Translation Examples](<./Translations>)
+
+---
+
+Included [here](<Kivümi.pgd>) is the [Polyglot](https://github.com/DraqueT/PolyGlot) file for the language.
+
+---

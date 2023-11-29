@@ -1,5 +1,7 @@
 
-# 1. From Nouns to Verbs and Adjectives
+# Suffixes
+
+## 1. From Nouns to Verbs and Adjectives
 
 Almost all verbs and adjectives are nouns with a suffix.  
 All verbs have the -vir suffix.  
@@ -17,7 +19,7 @@ Example :
 Most basic concept nouns are words of only one syllable ending with a vowel.  
 More complex ones are usually combinations of multiple simple concept nouns.  
 
-# 2. Antonyms, Superlative, Definiteness and Plural
+## 2. Antonyms, Superlative, Definiteness and Plural
 
 We can form antonyms from nouns and adjectives by adding the suffix -mük, if used on adjectives it is always used before the -din suffix.  
 Adjectives and nouns can be complemented with a superlative degree by adding the suffix -üb.  
@@ -26,7 +28,7 @@ Definiteness is marked by the use of a suffix on definite nouns only, never on i
 
 Plural is marked by the use of the -th suffix on nouns ending in vowels and -ath suffix on nouns ending in consonants, it is always placed last in the suffix order.  
 
-# 3. Numbers
+## 3. Numbers
 
 All numbers have the -lod suffix.  
 All ordinal numerals are numbers with the -ilun suffix.  

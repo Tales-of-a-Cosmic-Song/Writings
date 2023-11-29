@@ -1,9 +1,11 @@
 
-# 1. From Noun to Verb
+# Verbs & Conjugation
+
+## 1. From Noun to Verb
 
 Almost all verbs are made out of nouns with the added -vir suffix but once conjugated only the "v" of the suffix is kept.
 
-# 2. Conjugation
+## 2. Conjugation
 
 Conjugation adds [suffixes](Suffixes.md) to a verb to tell it's tense, state, certainty(optional) and positivity, in this order :  
 - verb\[TENSE]\[STATE]\[CERTAINTY]\[POSITIVITY]
@@ -26,9 +28,9 @@ There are two values for positivity :
 - Positive without suffix  
 - Negative with the suffix -ë  
 
-# 4. Particular Cases Within the [Kivümi Language](README.md)
+## 3. Particular Cases Within the [Kivümi Language](README.md)
 
-## 4.1. To Be
+### 3.1. To Be
 
 [Kivümi](README.md) does not have a direct translation of the "to be" verb, instead it mostly uses "to exist as" and "to have" as replacement.
 
@@ -40,7 +42,7 @@ For "I am *(adjective)*" it is "I have *(noun root of adjective)*"
 - Example :  
     "I am red" becomes "I have redness"  
 
-## 4.2. Passive Voice
+### 3.2. Passive Voice
 
 Passive voice is marked by the use of "gnïvir", "to becomethe target of" before the verb, that verb being turned into it's noun form.  
 - Example :  

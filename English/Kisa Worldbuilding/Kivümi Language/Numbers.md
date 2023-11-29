@@ -1,4 +1,6 @@
 
+# Numbers
+
 [Kivümi](README.md) uses a base 32, or duotrigesimal, numeral system.  
 Using RFC 4648 Base 32 alphabet to fit it into the [script](Script.md) font.  
 

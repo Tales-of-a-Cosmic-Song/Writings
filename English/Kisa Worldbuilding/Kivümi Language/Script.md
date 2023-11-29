@@ -1,4 +1,6 @@
 
+# Script
+
 The Kivümi script uses 9 vowels, 21 consonants and 3 punctuation symbols, as well as [32 numbers](Numbers.md).
 
 It is available through [ttf](KivumiPrototype22-Regular.ttf) or [otf](KivumiPrototype22-Regular.otf) fonts.  
