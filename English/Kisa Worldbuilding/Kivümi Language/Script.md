@@ -24,7 +24,7 @@ It is available through [ttf](KivumiPrototype22-Regular.ttf) or [otf](KivumiProt
 |          b          |               b               |      <img src="../Pictures/Individual Script Characters/b.png" alt="b" width="20"/>      |
 |          d          |               d               |      <img src="../Pictures/Individual Script Characters/d.png" alt="d" width="20"/>      |
 |          f          |               f               |      <img src="../Pictures/Individual Script Characters/f.png" alt="f" width="20"/>      |
-|          g          |               g               |      <img src="Individual Characters/g.png" alt="g" width="20"/>      |
+|          g          |               g               |      <img src="../Pictures/Individual Script Characters/g.png" alt="g" width="20"/>      |
 |          h          |               h               |      <img src="../Pictures/Individual Script Characters/h.png" alt="h" width="20"/>      |
 |          j          |               ʐ               |      <img src="../Pictures/Individual Script Characters/ʐ.png" alt="ʐ" width="20"/>      |
 |          k          |               k               |      <img src="../Pictures/Individual Script Characters/k.png" alt="k" width="20"/>      |

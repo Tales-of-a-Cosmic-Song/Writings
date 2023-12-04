@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 
-[Kisa](./Kivümi%20Language/Kivümi%20Dictionary/Kisa.md) is an Island continent on the planet [Begï](./Kivümi%20Language/Kivümi%20Dictionary/Begï.md) inhabited by the civilization of the [kivüs](./Kivümi%20Language/Kivümi%20Dictionary/kivü.md), a humanoid species possessing great powers.
+[Kisa](./Kivümi%20Language/Kivümi%20Dictionary/Kisa.md) is an island continent on the planet [Begï](./Kivümi%20Language/Kivümi%20Dictionary/Begï.md), inhabited by the civilization of the [kivüs](./Kivümi%20Language/Kivümi%20Dictionary/kivü.md), a humanoid species possessing great powers.
 
 The [yekis](./Kivümi%20Language/Kivümi%20Dictionary/yeki.md) are the gigantic trees giving birth to the kivüs.
 

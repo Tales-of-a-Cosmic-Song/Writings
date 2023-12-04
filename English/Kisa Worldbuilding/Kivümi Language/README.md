@@ -16,7 +16,7 @@ The Kivümi language is a [constructed language](https://en.wikipedia.org/wiki/C
 - [Pronouns](<Pronouns.md>)
 - [Prepositions](<./Prepositions.md>)
 - [Adverbs](<./Adverbs.md>)
-- [Cunjunctions](<./Cunjunctions.md>)
+- [Conjunctions](<./Conjunctions.md>)
 - [Determiners](<./Determiners.md>)
 - [Question Words](./Question%20Words.md)
 - [Translation Examples](<./Translations>)
