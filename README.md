@@ -12,7 +12,7 @@ Litterary works.
 - French
     - [Quelques Rêves - Short Poetry Collection](/Français/Quelques%20Rêves/)
 
-## 2. [English](English/Translations/)
+## 2. [English](English)
 
 Texts in English only.  
 
