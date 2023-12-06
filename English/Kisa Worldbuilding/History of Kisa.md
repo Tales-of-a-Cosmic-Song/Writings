@@ -3,7 +3,7 @@
 
 ## 1. Time of Birth
 
-When the [yekis](./Kivümi%20Language/Kivümi%20Dictionary/yeki.md) and [kivüs](./Kivümi%20Language/Kivümi%20Dictionary/kivü.md) first appeared and acted as mindless godlike slaves.  
+When the [yekis](./Natural%20Science/Unique%20Species/yeki.md) and [kivüs](./Natural%20Science/Unique%20Species/kivü.md) first appeared and acted as mindless godlike slaves.  
 
 ### 1.1. -2 500 000 - Birth of [Shökrodo](./Characters/Shökrodo.md)
 

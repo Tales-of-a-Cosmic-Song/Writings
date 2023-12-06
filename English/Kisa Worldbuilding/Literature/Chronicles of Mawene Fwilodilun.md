@@ -14,7 +14,7 @@ I awakened a long time ago, alone yet surrounded by thousands of siblings. I spe
 ‌
 I remember my awakening, I lost my body to a landslide in the mountains of the East and was reincarnated by [Pökrojüki](../Characters/Pökrojüki.md).  
 As usual  I flew back to my task, watching over a population of invasive plant species in the plains of the warm North East that could potentially unbalance their ecosystem.  
-But this body did not act as it was supposed to, the [yeki](../Kivümi%20Language/Kivümi%20Dictionary/yeki.md) gave it strange powers.  
+But this body did not act as it was supposed to, the [yeki](../Natural%20Science/Unique%20Species/yeki.md) gave it strange powers.  
 I could think, I could choose, I could move away from my task.  
 
 ### 2.2. Our Names

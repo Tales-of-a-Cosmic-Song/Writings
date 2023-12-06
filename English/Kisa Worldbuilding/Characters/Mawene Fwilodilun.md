@@ -3,7 +3,7 @@
 
 <div align="right"><i>mawænæ fwilodilun</i></div>
 
-First of the Awakened [kivüs](../Kivümi%20Language/Kivümi%20Dictionary/kivü.md), spent hundreds of years in loneliness trying to awaken others.  
+First of the Awakened [kivüs](../Natural%20Science/Unique%20Species/kivü.md), spent hundreds of years in loneliness trying to awaken others.  
 Wrote his [Chronicles of Mawene Fwilodilun](<../Literature/Chronicles of Mawene Fwilodilun.md>), detailing their life and thoughts after their early awakening.  
 
 ## 1. The First Awakening
