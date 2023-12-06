@@ -1,7 +1,7 @@
 
 # Writings
 
-Litterary works.
+Literary works.
 
 ## 1. Current Contents
 
