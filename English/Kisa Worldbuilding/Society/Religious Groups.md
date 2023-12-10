@@ -21,18 +21,26 @@ Hübego Gyeviritilodilun took great interest in Mawene Fwilodilun's questions ab
 
 #### 1.2.1. The Children of the Sky
 
+"vüsolath rya ksosol"
+
 First of all the Cult of the Engineers groups, led by Hübego Gyeviritilodilun and most popular one.  
 
 Believe that the Engineers made the kivüs and their planet for a specific purpose and will come back from space to reveal it once the kivüs are united and ready.  
 
 #### 1.2.2. The Lost
 
+"hjüvirisolath"
+
 Believe that the Engineers do not care about the kivüs and even forgot about them.  
 
 #### 1.2.3. The Purpose of Dead Stars
 
+"tsasol rya dödin noth"
+
 Believe that the Engineers are all dead and that there is no purpose in life.  
 
 ## 2. Messengers of the Yekis
+
+"tüvirith rya yekisolath"  
 
 A group of kivüs dedicated to still complete their innate tasks as well as possible and who consider the yekis as gods.  
