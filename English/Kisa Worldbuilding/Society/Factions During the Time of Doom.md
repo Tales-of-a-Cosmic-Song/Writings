@@ -10,6 +10,8 @@ They try to telepathically communicate with the [deformed](#2-the-deformed) to g
 
 ## 2. The Deformed
 
+"thtomüksolath"
+
 The deformed are short lived and incompletely formed kivüs born during the Time of Doom.  
 The slow draining of the impaled Hepïpü Shömükmyo caused the remains of the [yekis](../Kivümi%20Language/Kivümi%20Dictionary/yeki.md) to birth the deformed, most of them too incomplete to move or do anything else than screaming and crying.  
 As opposed to the kivüs, the deformed have no intrinsic goal and are condemned to wonder aimlessly through Kisa's wasteland until they die.  
