@@ -1,7 +1,7 @@
 
 # klevir
 
-<div align="right"><i>klævir</i></div>
+<div align="right"><i>klevir</i></div>
 
 *verb*  
 **Definition :** to throw  

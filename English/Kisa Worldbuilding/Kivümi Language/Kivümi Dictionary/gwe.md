@@ -1,7 +1,7 @@
 
 # gwe
 
-<div align="right"><i>gwæ</i></div>
+<div align="right"><i>gwe</i></div>
 
 *noun*  
 **Definition :** smoke  

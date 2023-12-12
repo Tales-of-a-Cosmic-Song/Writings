@@ -1,7 +1,7 @@
 
 # gnë
 
-<div align="right"><i>ɲœ</i></div>
+<div align="right"><i>ɲə</i></div>
 
 *noun*  
 **Definition :** source  

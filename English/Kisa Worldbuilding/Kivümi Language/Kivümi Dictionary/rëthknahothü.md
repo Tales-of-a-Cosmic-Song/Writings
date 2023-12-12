@@ -1,7 +1,7 @@
 
 # rëthknahothü
 
-<div align="right"><i>rœθknahoθy</i></div>
+<div align="right"><i>rəθknahoθy</i></div>
 
 *noun*  
 **Definition :** history  

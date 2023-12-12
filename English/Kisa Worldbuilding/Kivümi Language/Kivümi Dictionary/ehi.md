@@ -1,7 +1,7 @@
 
 # ehi
 
-<div align="right"><i>æhi</i></div>
+<div align="right"><i>ehi</i></div>
 
 *pronoun*  
 **Definition :** my  

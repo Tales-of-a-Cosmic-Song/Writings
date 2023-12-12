@@ -1,7 +1,7 @@
 
 # kilema
 
-<div align="right"><i>kilæma</i></div>
+<div align="right"><i>kilema</i></div>
 
 *noun*  
 **Definition :** root  

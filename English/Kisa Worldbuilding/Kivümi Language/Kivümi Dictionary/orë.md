@@ -1,7 +1,7 @@
 
 # orë
 
-<div align="right"><i>orœ</i></div>
+<div align="right"><i>orə</i></div>
 
 *noun*  
 **Definition :** grey  

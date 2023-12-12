@@ -1,7 +1,7 @@
 
 # sëdin
 
-<div align="right"><i>sœdin</i></div>
+<div align="right"><i>sədin</i></div>
 
 *adjective*  
 **Definition :** correct  

@@ -1,7 +1,7 @@
 
 # kë
 
-<div align="right"><i>kœ</i></div>
+<div align="right"><i>kə</i></div>
 
 *noun*  
 **Definition :** earth  

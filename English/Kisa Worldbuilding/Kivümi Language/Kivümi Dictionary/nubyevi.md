@@ -1,7 +1,7 @@
 
 # nubyevi
 
-<div align="right"><i>nubjævi</i></div>
+<div align="right"><i>nubjevi</i></div>
 
 *noun*  
 **Definition :** first month, season, [boshwo](boshwo.md)  

@@ -1,7 +1,7 @@
 
 # ve
 
-<div align="right"><i>væ</i></div>
+<div align="right"><i>ve</i></div>
 
 *noun*  
 **Definition :** breast  

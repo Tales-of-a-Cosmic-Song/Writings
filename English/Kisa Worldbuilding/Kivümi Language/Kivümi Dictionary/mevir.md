@@ -1,7 +1,7 @@
 
 # mevir
 
-<div align="right"><i>mævir</i></div>
+<div align="right"><i>mevir</i></div>
 
 *verb*  
 **Definition :** to move  

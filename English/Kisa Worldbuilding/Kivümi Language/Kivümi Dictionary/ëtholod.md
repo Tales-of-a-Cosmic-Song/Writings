@@ -1,7 +1,7 @@
 
 # ëtholod
 
-<div align="right"><i>œθolod</i></div>
+<div align="right"><i>əθolod</i></div>
 
 *numeral*  
 **Definition :** eighteen  

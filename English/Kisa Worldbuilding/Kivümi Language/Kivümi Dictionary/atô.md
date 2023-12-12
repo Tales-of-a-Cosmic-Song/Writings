@@ -1,0 +1,13 @@
+
+# atô
+
+<div align="right"><i>atɔ̃</i></div>
+
+*noun*  
+**Definition :** brown  
+
+---
+
+[Kivümi Language](../README.md)
+
+---

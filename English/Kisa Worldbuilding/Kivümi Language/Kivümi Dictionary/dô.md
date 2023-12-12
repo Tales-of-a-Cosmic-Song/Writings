@@ -1,0 +1,13 @@
+
+# dô
+
+<div align="right"><i>dɔ̃</i></div>
+
+*noun*  
+**Definition :** death  
+
+---
+
+[Kivümi Language](../README.md)
+
+---

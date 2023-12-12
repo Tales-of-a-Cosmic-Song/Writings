@@ -1,7 +1,7 @@
 
 # me
 
-<div align="right"><i>mœ</i></div>
+<div align="right"><i>mə</i></div>
 
 *preposition*  
 **Definition :** between  

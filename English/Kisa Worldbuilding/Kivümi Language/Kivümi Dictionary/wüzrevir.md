@@ -1,7 +1,7 @@
 
 # wüzrevir
 
-<div align="right"><i>wyzrævir</i></div>
+<div align="right"><i>wyzrevir</i></div>
 
 *verb*  
 **Definition :** to govern, to organize (people)  

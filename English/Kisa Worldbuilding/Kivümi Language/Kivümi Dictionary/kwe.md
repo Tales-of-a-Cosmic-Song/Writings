@@ -1,7 +1,7 @@
 
 # kwe
 
-<div align="right"><i>kwæ</i></div>
+<div align="right"><i>kwe</i></div>
 
 *noun*  
 **Definition :** line  

@@ -1,7 +1,7 @@
 
 # lëk
 
-<div align="right"><i>lœk</i></div>
+<div align="right"><i>lək</i></div>
 
 *adverb*  
 **Definition :** not  

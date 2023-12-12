@@ -1,7 +1,7 @@
 
 # fe
 
-<div align="right"><i>fæ</i></div>
+<div align="right"><i>fe</i></div>
 
 *noun*  
 **Definition :** feather  

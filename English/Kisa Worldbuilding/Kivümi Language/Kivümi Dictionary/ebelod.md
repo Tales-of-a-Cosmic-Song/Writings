@@ -1,7 +1,7 @@
 
 # ebelod
 
-<div align="right"><i>æbælod</i></div>
+<div align="right"><i>ebelod</i></div>
 
 *numeral*  
 **Definition :** six  

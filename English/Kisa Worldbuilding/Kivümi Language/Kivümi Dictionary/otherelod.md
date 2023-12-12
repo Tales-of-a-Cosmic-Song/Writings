@@ -1,7 +1,7 @@
 
 # otherelod
 
-<div align="right"><i>oθærælod</i></div>
+<div align="right"><i>oθerelod</i></div>
 
 *numeral*  
 **Definition :** twenty nine  

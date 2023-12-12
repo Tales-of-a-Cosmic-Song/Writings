@@ -1,7 +1,7 @@
 
-tö
+# të
 
-<div align="right">tœ<i></i></div>
+<div align="right">tə<i></i></div>
 
 *noun*  
 **Definition :** shortness  

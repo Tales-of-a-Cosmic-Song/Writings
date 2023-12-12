@@ -1,7 +1,7 @@
 
 # tyedin
 
-<div align="right"><i>tjædin</i></div>
+<div align="right"><i>tjedin</i></div>
 
 *adjective*  
 **Definition :** cold  

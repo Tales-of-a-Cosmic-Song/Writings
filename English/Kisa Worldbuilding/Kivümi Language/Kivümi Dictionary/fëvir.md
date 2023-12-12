@@ -1,7 +1,7 @@
 
 # fëvir
 
-<div align="right"><i>fœvir</i></div>
+<div align="right"><i>fəvir</i></div>
 
 *verb*  
 **Definition :** to split  

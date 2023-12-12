@@ -1,7 +1,7 @@
 
 # hwedin
 
-<div align="right"><i>hwædin</i></div>
+<div align="right"><i>hwedin</i></div>
 
 *adjective*  
 **Definition :** bored  

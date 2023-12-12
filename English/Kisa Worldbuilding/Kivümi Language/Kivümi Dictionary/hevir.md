@@ -1,7 +1,7 @@
 
 # hevir
 
-<div align="right"><i>hævir</i></div>
+<div align="right"><i>hevir</i></div>
 
 *verb*  
 **Definition :** to cut  

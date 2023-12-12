@@ -1,7 +1,7 @@
 
 # gredin
 
-<div align="right"><i>grædin</i></div>
+<div align="right"><i>gredin</i></div>
 
 *adjective*  
 **Definition :** smooth  

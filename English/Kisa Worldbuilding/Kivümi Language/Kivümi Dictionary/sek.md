@@ -1,7 +1,7 @@
 
 # sek
 
-<div align="right"><i>sæk</i></div>
+<div align="right"><i>sek</i></div>
 
 *conjunction*  
 **Definition :** or  

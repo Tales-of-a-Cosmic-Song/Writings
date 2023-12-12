@@ -1,7 +1,7 @@
 
 # let
 
-<div align="right"><i>læt</i></div>
+<div align="right"><i>let</i></div>
 
 *adverb*  
 **Definition :** before  

@@ -1,7 +1,7 @@
 
 # zë
 
-<div align="right"><i>zœ</i></div>
+<div align="right"><i>zə</i></div>
 
 *noun*  
 **Definition :** danger  

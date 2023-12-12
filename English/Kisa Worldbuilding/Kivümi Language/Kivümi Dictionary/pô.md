@@ -1,0 +1,13 @@
+
+#pô
+
+<div align="right"><i>pɔ̃</i></div>
+
+*noun*  
+**Definition :** branch  
+
+---
+
+[Kivümi Language](../README.md)
+
+---

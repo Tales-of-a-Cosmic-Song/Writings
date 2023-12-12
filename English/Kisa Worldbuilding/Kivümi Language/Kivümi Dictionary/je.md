@@ -1,7 +1,7 @@
 
 # je
 
-<div align="right"><i>ʐæ</i></div>
+<div align="right"><i>ʒe</i></div>
 
 *noun*  
 **Definition :** knee  

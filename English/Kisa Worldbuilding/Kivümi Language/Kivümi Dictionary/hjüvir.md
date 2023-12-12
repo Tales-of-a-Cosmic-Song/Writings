@@ -1,7 +1,7 @@
 
 # hjüvir
 
-<div align="right"><i>hʐyvir</i></div>
+<div align="right"><i>hʒyvir</i></div>
 
 *verb*  
 **Definition :** to lose  

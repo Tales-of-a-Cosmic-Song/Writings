@@ -1,7 +1,7 @@
 
 # letati
 
-<div align="right"><i>lætati</i></div>
+<div align="right"><i>letati</i></div>
 
 *noun*  
 **Definition :** past  

@@ -1,7 +1,7 @@
 
 # othelod
 
-<div align="right"><i>oθælod</i></div>
+<div align="right"><i>oθelod</i></div>
 
 *numeral*  
 **Definition :** seven  

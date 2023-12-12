@@ -1,7 +1,7 @@
 
 # ze
 
-<div align="right"><i>zæ</i></div>
+<div align="right"><i>ze</i></div>
 
 *noun*  
 **Definition :** turn  

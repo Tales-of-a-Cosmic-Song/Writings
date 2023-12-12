@@ -1,7 +1,7 @@
 
 # pëye
 
-<div align="right"><i>pœjæ</i></div>
+<div align="right"><i>pəje</i></div>
 
 *noun*  
 **Definition :** second name  

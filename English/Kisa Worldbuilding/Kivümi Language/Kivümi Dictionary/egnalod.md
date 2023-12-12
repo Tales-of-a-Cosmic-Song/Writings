@@ -1,7 +1,7 @@
 
 # egnalod
 
-<div align="right"><i>æɲalod</i></div>
+<div align="right"><i>eɲalod</i></div>
 
 *numeral*  
 **Definition :** twenty three  

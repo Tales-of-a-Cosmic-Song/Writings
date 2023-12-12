@@ -1,7 +1,7 @@
 
 # olelod
 
-<div align="right"><i>olælod</i></div>
+<div align="right"><i>olelod</i></div>
 
 *numeral*  
 **Definition :** twenty two  

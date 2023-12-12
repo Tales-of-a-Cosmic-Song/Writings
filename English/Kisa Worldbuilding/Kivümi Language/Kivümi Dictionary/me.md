@@ -1,7 +1,7 @@
 
 # me
 
-<div align="right"><i>mæ</i></div>
+<div align="right"><i>me</i></div>
 
 *noun*  
 **Definition :** movement  

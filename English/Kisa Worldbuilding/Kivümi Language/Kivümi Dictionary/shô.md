@@ -1,0 +1,13 @@
+
+# shô
+
+<div align="right"><i>ʃɔ̃</i></div>
+
+*noun*  
+**Definition :** creator  
+
+---
+
+[Kivümi Language](../README.md)
+
+---

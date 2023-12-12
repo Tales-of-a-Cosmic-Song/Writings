@@ -1,7 +1,7 @@
 
 # levir
 
-<div align="right"><i>lævir</i></div>
+<div align="right"><i>levir</i></div>
 
 *verb*  
 **Definition :** to scratch  

@@ -1,7 +1,7 @@
 
 # twe
 
-<div align="right"><i>twæ</i></div>
+<div align="right"><i>twe</i></div>
 
 *noun*  
 **Definition :** newness  

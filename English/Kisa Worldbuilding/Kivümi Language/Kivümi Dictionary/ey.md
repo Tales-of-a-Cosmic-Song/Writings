@@ -1,7 +1,7 @@
 
 # ey
 
-<div align="right"><i>æj</i></div>
+<div align="right"><i>ej</i></div>
 
 *punctuation*  
 **Definition :** dot, "."  

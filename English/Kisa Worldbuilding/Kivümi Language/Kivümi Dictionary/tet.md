@@ -1,7 +1,7 @@
 
 # tet
 
-<div align="right"><i>tæt</i></div>
+<div align="right"><i>tet</i></div>
 
 *adverb*  
 **Definition :** there  

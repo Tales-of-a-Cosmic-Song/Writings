@@ -1,7 +1,7 @@
 
 # ke
 
-<div align="right"><i>kæ</i></div>
+<div align="right"><i>ke</i></div>
 
 *noun*
 **Definition :** water

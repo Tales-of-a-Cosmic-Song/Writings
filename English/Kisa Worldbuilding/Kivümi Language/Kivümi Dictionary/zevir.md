@@ -1,7 +1,7 @@
 
 # zevir
 
-<div align="right"><i>zævir</i></div>
+<div align="right"><i>zevir</i></div>
 
 *verb*  
 **Definition :** to turn  

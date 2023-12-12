@@ -1,7 +1,7 @@
 
 # këzo
 
-<div align="right"><i>kœzo</i></div>
+<div align="right"><i>kəzo</i></div>
 
 *noun*  
 **Definition :** land  

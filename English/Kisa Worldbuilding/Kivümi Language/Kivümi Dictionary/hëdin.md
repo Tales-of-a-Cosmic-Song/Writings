@@ -1,7 +1,7 @@
 
 # hëdin
 
-<div align="right"><i>hœdin</i></div>
+<div align="right"><i>hədin</i></div>
 
 *adjective*  
 **Definition :** sad  

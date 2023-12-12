@@ -1,7 +1,7 @@
 
 # she
 
-<div align="right"><i>ʃæ</i></div>
+<div align="right"><i>ʃe</i></div>
 
 *noun*  
 **Definition :** fruit  

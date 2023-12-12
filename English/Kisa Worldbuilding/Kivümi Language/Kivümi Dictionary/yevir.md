@@ -1,7 +1,7 @@
 
 # yevir
 
-<div align="right"><i>jævir</i></div>
+<div align="right"><i>jevir</i></div>
 
 *verb*  
 **Definition :** to live  

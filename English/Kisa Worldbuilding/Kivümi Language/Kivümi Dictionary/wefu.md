@@ -1,7 +1,7 @@
 
 # wefu
 
-<div align="right"><i>wæfu</i></div>
+<div align="right"><i>wefu</i></div>
 
 *noun*  
 **Definition :** burn  

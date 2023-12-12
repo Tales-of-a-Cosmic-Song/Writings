@@ -1,7 +1,7 @@
 
 # etülod
 
-<div align="right"><i>ætylod</i></div>
+<div align="right"><i>etylod</i></div>
 
 *numeral*  
 **Definition :** four  

@@ -1,7 +1,7 @@
 
 # rë
 
-<div align="right"><i>rœ</i></div>
+<div align="right"><i>rə</i></div>
 
 *noun*  
 **Definition :** language  

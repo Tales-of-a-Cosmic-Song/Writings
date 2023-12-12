@@ -1,7 +1,7 @@
 
 # ne
 
-<div align="right"><i>næ</i></div>
+<div align="right"><i>ne</i></div>
 
 *noun*  
 **Definition :** fall  

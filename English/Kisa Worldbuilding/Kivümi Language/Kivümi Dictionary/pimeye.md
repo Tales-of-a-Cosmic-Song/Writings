@@ -1,7 +1,7 @@
 
 # pimeye
 
-<div align="right"><i>pimæjæ</i></div>
+<div align="right"><i>pimeje</i></div>
 
 *noun*  
 **Definition :** worm  

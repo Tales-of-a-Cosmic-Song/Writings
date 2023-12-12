@@ -1,7 +1,7 @@
 
 # gyevir
 
-<div align="right"><i>gjævir</i></div>
+<div align="right"><i>gjevir</i></div>
 
 *verb*  
 **Definition :** to believe  

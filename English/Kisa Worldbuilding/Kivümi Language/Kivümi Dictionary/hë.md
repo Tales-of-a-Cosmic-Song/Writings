@@ -1,7 +1,7 @@
 
 # hë
 
-<div align="right"><i>hœ</i></div>
+<div align="right"><i>hə</i></div>
 
 *noun*  
 **Definition :** sadness  

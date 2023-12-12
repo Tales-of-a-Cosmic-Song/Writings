@@ -1,7 +1,7 @@
 
 # bubyevi
 
-<div align="right"><i>bubjævi</i></div>
+<div align="right"><i>bubjevi</i></div>
 
 *noun*  
 **Definition :** third month/season([boshwo](boshwo.md))  

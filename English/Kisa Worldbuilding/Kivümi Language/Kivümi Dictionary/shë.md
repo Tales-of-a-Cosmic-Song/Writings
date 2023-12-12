@@ -1,7 +1,7 @@
 
 # shë
 
-<div align="right"><i>ʃœ</i></div>
+<div align="right"><i>ʃə</i></div>
 
 *noun*  
 **Definition :** flower  

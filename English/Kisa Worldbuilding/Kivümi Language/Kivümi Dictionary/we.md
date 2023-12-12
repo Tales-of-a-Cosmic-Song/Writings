@@ -1,7 +1,7 @@
 
 # we
 
-<div align="right"><i>wæ</i></div>
+<div align="right"><i>we</i></div>
 
 *noun*  
 **Definition :** matter  

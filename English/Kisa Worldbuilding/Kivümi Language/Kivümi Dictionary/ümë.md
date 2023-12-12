@@ -1,7 +1,7 @@
 
 # ümë
 
-<div align="right"><i>ymœ</i></div>
+<div align="right"><i>ymə</i></div>
 
 *noun*  
 **Definition :** blue  

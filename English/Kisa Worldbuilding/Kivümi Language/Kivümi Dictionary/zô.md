@@ -1,0 +1,13 @@
+
+# zô
+
+<div align="right"><i>zɔ̃</i></div>
+
+*noun*  
+**Definition :** change  
+
+---
+
+[Kivümi Language](../README.md)
+
+---

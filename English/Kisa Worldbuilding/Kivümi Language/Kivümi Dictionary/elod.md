@@ -1,7 +1,7 @@
 
 # elod
 
-<div align="right"><i>ælod</i></div>
+<div align="right"><i>elod</i></div>
 
 *numeral*  
 **Definition :** two  

@@ -1,7 +1,7 @@
 
 # hwe
 
-<div align="right"><i>hwæ</i></div>
+<div align="right"><i>hwe</i></div>
 
 *noun*  
 **Definition :** boredom  

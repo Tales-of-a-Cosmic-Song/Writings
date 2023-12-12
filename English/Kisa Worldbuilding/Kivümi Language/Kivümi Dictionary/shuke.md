@@ -1,7 +1,7 @@
 
 # shuke
 
-<div align="right"><i>ʃukæ</i></div>
+<div align="right"><i>ʃuke</i></div>
 
 *noun*  
 **Definition :** infusion  

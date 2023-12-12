@@ -1,7 +1,7 @@
 
 # yeke
 
-<div align="right"><i>jækæ</i></div>
+<div align="right"><i>jeke</i></div>
 
 *noun*  
 **Definition :** blood  

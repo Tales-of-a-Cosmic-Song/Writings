@@ -1,0 +1,13 @@
+
+# sô
+
+<div align="right"><i>sɔ̃</i></div>
+
+*noun*  
+**Definition :** bigness  
+
+---
+
+[Kivümi Language](../README.md)
+
+---

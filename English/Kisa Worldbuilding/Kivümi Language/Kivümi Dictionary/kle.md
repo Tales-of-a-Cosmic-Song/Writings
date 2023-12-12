@@ -1,7 +1,7 @@
 
 # kle
 
-<div align="right"><i>klæ</i></div>
+<div align="right"><i>kle</i></div>
 
 *noun*  
 **Definition :** throw  

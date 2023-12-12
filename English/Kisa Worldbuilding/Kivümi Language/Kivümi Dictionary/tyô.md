@@ -1,0 +1,13 @@
+
+# tyô
+
+<div align="right"><i>tjɔ̃</i></div>
+
+*noun*  
+**Definition :** storm  
+
+---
+
+[Kivümi Language](../README.md)
+
+---

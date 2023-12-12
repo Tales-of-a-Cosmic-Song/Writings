@@ -1,0 +1,13 @@
+
+# kwô
+
+<div align="right"><i>kwɔ̃</i></div>
+
+*noun*  
+**Definition :** swell  
+
+---
+
+[Kivümi Language](../README.md)
+
+---

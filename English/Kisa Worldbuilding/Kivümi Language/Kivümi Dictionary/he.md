@@ -1,7 +1,7 @@
 
 # he
 
-<div align="right"><i>hæ</i></div>
+<div align="right"><i>he</i></div>
 
 *noun*  
 **Definition :** cut  

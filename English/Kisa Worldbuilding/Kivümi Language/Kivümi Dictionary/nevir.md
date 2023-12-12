@@ -1,7 +1,7 @@
 
 # nevir
 
-<div align="right"><i>nævir</i></div>
+<div align="right"><i>nevir</i></div>
 
 *verb*  
 **Definition :** to fall  

@@ -1,7 +1,7 @@
 
 # wë
 
-<div align="right"><i>wœ</i></div>
+<div align="right"><i>wə</i></div>
 
 *noun*  
 **Definition :** chaos  

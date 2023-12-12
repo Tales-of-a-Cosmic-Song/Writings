@@ -1,7 +1,7 @@
 
 # ela
 
-<div align="right"><i>æla</i></div>
+<div align="right"><i>ela</i></div>
 
 *pronoun*  
 **Definition :** it's (possessive)  

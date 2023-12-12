@@ -1,7 +1,7 @@
 
 # sedin
 
-<div align="right"><i>sædin</i></div>
+<div align="right"><i>sedin</i></div>
 
 *adjective*  
 **Definition :** near  
