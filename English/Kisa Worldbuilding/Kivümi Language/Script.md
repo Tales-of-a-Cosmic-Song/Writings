@@ -5,11 +5,10 @@ The Kivümi script uses 9 vowels, 21 consonants and 3 punctuation symbols, as we
 
 It is available through [ttf](KivumiPrototype22-Regular.ttf) or [otf](KivumiPrototype22-Regular.otf) fonts.  
 
-| Romanized character | Phonetics | Keybord Key | Kivümi character |
+| Romanized Character | Pronunciation | Font Character | Kivümi Script |
 |:-:|:-:|:-:|:-:|
 | Vowels | | | |
 | a | *a* | a | <img src="../Pictures/Individual Script Characters/a.png" alt="a" width="20"/> |
-| â | *ɑ̃* | â | <img src="../Pictures/Individual Script Characters/â.png" alt="â" width="20"/> |
 | e | *e* | e | <img src="../Pictures/Individual Script Characters/e.png" alt="e" width="20"/> |
 | ë | *ə* | ë | <img src="../Pictures/Individual Script Characters/ë.png" alt="ë" width="20"/> |
 | i | *i* | i | <img src="../Pictures/Individual Script Characters/i.png" alt="i" width="20"/> |
@@ -18,6 +17,7 @@ It is available through [ttf](KivumiPrototype22-Regular.ttf) or [otf](KivumiProt
 | ô | *ɔ̃* | ô | <img src="../Pictures/Individual Script Characters/ô.png" alt="ô" width="20"/> |
 | u | *u* | u | <img src="../Pictures/Individual Script Characters/u.png" alt="u" width="20"/> |
 | ü | *y* | ü | <img src="../Pictures/Individual Script Characters/ü.png" alt="ü" width="20"/> |
+| â | *ɑ̃* | â | <img src="../Pictures/Individual Script Characters/â.png" alt="â" width="20"/> |
 | û | *œ̃* | û | <img src="../Pictures/Individual Script Characters/û.png" alt="û" width="20"/> |
 | Consonants | | | |
 | th | *θ* | θ | <img src="../Pictures/Individual Script Characters/th.png" alt="th" width="20"/> |
