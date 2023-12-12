@@ -3,12 +3,12 @@
 
 ![Lament of the Kivüs](./Lament%20of%20the%20Kivüs.png)
 
-<div align="right"><i>hiθ jɔt hwædin hlɞsolaθ rja bjædin gisaʃlosolaθ rja kisa knovæk</i></div>  
-<div align="right"><i>hiθ æhiθ sjæ hʐyval mjodin lætati rot</i></div>  
+<div align="right"><i>hiθ jɔ̃t hwedin hlɛ̃solaθ rja bjedin gisaʃlosolaθ rja kisa knovek</i></div>  
+<div align="right"><i>hiθ ehiθ sje hʒyval mjodin letati rot</i></div>  
 
 ---
 
-hith yöt hwedin hlïsokath rya byedin gisashlosolath rya kisa knovek  
+hith yôt hwedin hlîsokath rya byedin gisashlosolath rya kisa knovek  
 hith ehith sye hjüval myodin letati rot  
 
 ---

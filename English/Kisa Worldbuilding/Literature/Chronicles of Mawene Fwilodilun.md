@@ -12,16 +12,16 @@ I awakened a long time ago, alone yet surrounded by thousands of siblings. I spe
 
 ### 2.1. 449 years before the [Great Awakening](<../History of Kisa.md#211-0---the-great-awakening>)
 ‌
-I remember my awakening, I lost my body to a landslide in the mountains of the East and was reincarnated by [Pökrojüki](../Characters/Pökrojüki.md).  
+I remember my awakening, I lost my body to a landslide in the mountains of the East and was reincarnated by [Pôkrojüki](../Characters/Pôkrojüki.md).  
 As usual  I flew back to my task, watching over a population of invasive plant species in the plains of the warm North East that could potentially unbalance their ecosystem.  
 But this body did not act as it was supposed to, the [yeki](../Natural%20Science/Unique%20Species/yeki.md) gave it strange powers.  
 I could think, I could choose, I could move away from my task.  
 
 ### 2.2. Our Names
 
-We each were given a name, by whom we don't know, maybe by [Shökrodo](../Characters/Shökrodo.md) or something entirely different.  
+We each were given a name, by whom we don't know, maybe by [Shôkrodo](../Characters/Shôkrodo.md) or something entirely different.  
 These are senseless names but still, it gave us a hint at an identity and once we awakened, we didn't get rid of it, we instead added an appellation, a second name to it, depicting who we are in life.  
-We even named the yekis, great beings who had no names to honor them. There is [Shökrodo](../Characters/Shökrodo.md), the heart of the colony, then all their limbs, [Pökrojüblu](../Characters/Pökrojüblu.md), [Pökrojüfli](../Characters/Pökrojüfli.md) and [Pökrojüki](../Characters/Pökrojüki.md) watching over the northern lands, [Pökrojiba](../Characters/Pökrojiba.md), [Pökrojimö](../Characters/Pökrojimö.md) and [Pökrojitye](../Characters/Pökrojitye.md) in the South, [Pökrojobye](../Characters/Pökrojobye.md), [Pökrojoki](../Characters/Pökrojoki.md) and [Pökrojoye](../Characters/Pökrojoye.md) in the East, and [Pökrojafwo](../Characters/Pökrojafwo.md), [Pökrojaki](../Characters/Pökrojaki.md) and [Pökrojawüklö](../Characters/Pökrojawüklö.md) in the West.  
+We even named the yekis, great beings who had no names to honor them. There is [Shôkrodo](../Characters/Shôkrodo.md), the heart of the colony, then all their limbs, [Pôkrojüblu](../Characters/Pôkrojüblu.md), [Pôkrojüfli](../Characters/Pôkrojüfli.md) and [Pôkrojüki](../Characters/Pôkrojüki.md) watching over the northern lands, [Pôkrojiba](../Characters/Pôkrojiba.md), [Pôkrojimô](../Characters/Pôkrojimô.md) and [Pôkrojitye](../Characters/Pôkrojitye.md) in the South, [Pôkrojobye](../Characters/Pôkrojobye.md), [Pôkrojoki](../Characters/Pôkrojoki.md) and [Pôkrojoye](../Characters/Pôkrojoye.md) in the East, and [Pôkrojafwo](../Characters/Pôkrojafwo.md), [Pôkrojaki](../Characters/Pôkrojaki.md) and [Pôkrojawüklô](../Characters/Pôkrojawüklô.md) in the West.  
 
 The first name is now called [pëdo](../Kivümi%20Language/Kivümi%20Dictionary/pëdo.md), old name, and second name [pëye](../Kivümi%20Language/Kivümi%20Dictionary/pëye.md), life name.  
 It is with this new naming tradition that my siblings gave me the pëye Ilodilunfwi, "first awakening".  

@@ -12,7 +12,7 @@ To the North East is a large tropical forest touching the coast.
 To the South West the boreal forest extends towards the coast and fills a large island there.
 South of the toundra is a frozen desert, touching the coast.  
 ![Map of Kisa](../Pictures/Maps/KisaPrototype.png)
-The eastern gulf only appeared after [Hepïpü Shömükmyo](../Characters/Hepïpü%20Shömükmyo.md) impaled himself and started the [Time of Doom](<../History of Kisa.md#3-time-of-doom>)
+The eastern gulf only appeared after [Hepîpü Shômükmyo](../Characters/Hepîpü%20Shômükmyo.md) impaled himself and started the [Time of Doom](<../History of Kisa.md#3-time-of-doom>)
 
 ## 2. Species Unique to Kisa
 
