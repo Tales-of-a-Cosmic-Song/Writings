@@ -1,7 +1,7 @@
 
 # ethilod
 
-<div align="right"><i>æθilod</i></div>
+<div align="right"><i>eθilod</i></div>
 
 *numeral*  
 **Definition :** eleven  

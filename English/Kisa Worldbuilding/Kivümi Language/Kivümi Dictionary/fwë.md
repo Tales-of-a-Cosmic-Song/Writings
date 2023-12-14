@@ -1,7 +1,7 @@
 
 # fwë
 
-<div align="right"><i>fwœ</i></div>
+<div align="right"><i>fwə</i></div>
 
 *noun*  
 **Definition :** spirit  

@@ -1,0 +1,13 @@
+
+# mô
+
+<div align="right"><i>mɔ̃</i></div>
+
+*noun*  
+**Definition :** smallness  
+
+---
+
+[Kivümi Language](../README.md)
+
+---

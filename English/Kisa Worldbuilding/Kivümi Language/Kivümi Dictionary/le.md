@@ -1,7 +1,7 @@
 
 # le
 
-<div align="right"><i>læ</i></div>
+<div align="right"><i>le</i></div>
 
 *noun*  
 **Definition :** scratch  

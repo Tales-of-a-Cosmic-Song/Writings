@@ -1,7 +1,7 @@
 
 # bël
 
-<div align="right"><i>bœl</i></div>
+<div align="right"><i>bəl</i></div>
 
 *question word*  
 **Definition :** where  

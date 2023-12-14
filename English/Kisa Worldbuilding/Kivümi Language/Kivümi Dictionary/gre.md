@@ -1,7 +1,7 @@
 
 # gre
 
-<div align="right"><i>græ</i></div>
+<div align="right"><i>gre</i></div>
 
 *noun*  
 **Definition :** smoothness  

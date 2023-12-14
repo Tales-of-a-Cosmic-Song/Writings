@@ -1,7 +1,7 @@
 
 # zyemükyemük
 
-<div align="right"><i>zjæmykjæmyk</i></div>
+<div align="right"><i>zjemykjemyk</i></div>
 
 *noun*  
 **Definition :** murder  

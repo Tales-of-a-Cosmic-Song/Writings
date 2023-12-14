@@ -1,7 +1,7 @@
 
 # kene
 
-<div align="right"><i>kænæ</i></div>
+<div align="right"><i>kene</i></div>
 
 *noun*  
 **Definition :** rain  

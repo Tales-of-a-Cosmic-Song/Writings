@@ -1,7 +1,7 @@
 
 # kemeye
 
-<div align="right"><i>kæmæjæ</i></div>
+<div align="right"><i>kemeje</i></div>
 
 *noun*  
 **Definition :** fish  

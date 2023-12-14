@@ -1,7 +1,7 @@
 
 # tja
 
-<div align="right"><i>tʐa</i></div>
+<div align="right"><i>tʒa</i></div>
 
 *preposition*  
 **Definition :** to  

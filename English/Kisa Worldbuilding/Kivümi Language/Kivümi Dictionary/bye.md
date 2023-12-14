@@ -1,7 +1,7 @@
 
 # bye
 
-<div align="right"><i>bjæ</i></div>
+<div align="right"><i>bje</i></div>
 
 *noun*  
 **Definition :** highness  

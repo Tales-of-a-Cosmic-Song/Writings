@@ -1,7 +1,7 @@
 
 # ijülod
 
-<div align="right"><i>iʐylod</i></div>
+<div align="right"><i>iʒylod</i></div>
 
 *numeral*  
 **Definition :** twenty four  

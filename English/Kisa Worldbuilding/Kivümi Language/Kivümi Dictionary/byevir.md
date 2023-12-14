@@ -1,7 +1,7 @@
 
 # byevir
 
-<div align="right"><i>bjævir</i></div>
+<div align="right"><i>bjevir</i></div>
 
 *verb*  
 **Definition :** to elevate, to make high  

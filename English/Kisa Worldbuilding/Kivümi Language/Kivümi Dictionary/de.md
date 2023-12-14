@@ -1,7 +1,7 @@
 
 # de
 
-<div align="right"><i>dæ</i></div>
+<div align="right"><i>de</i></div>
 
 *noun*  
 **Definition :** dot  

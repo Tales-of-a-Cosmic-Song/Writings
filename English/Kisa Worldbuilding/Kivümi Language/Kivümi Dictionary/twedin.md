@@ -1,7 +1,7 @@
 
 # twedin
 
-<div align="right"><i>twædin</i></div>
+<div align="right"><i>twedin</i></div>
 
 *adjective*  
 **Definition :** new  

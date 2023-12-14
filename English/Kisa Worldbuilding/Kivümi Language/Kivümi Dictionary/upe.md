@@ -1,7 +1,7 @@
 
 # upe
 
-<div align="right"><i>upæ</i></div>
+<div align="right"><i>upe</i></div>
 
 *noun*  
 **Definition :** green  

@@ -1,7 +1,7 @@
 
 # pë
 
-<div align="right"><i>pœ</i></div>
+<div align="right"><i>pə</i></div>
 
 *noun*  
 **Definition :** name  

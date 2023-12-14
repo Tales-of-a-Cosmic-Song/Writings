@@ -1,7 +1,7 @@
 
 # sen
 
-<div align="right"><i>sæn</i></div>
+<div align="right"><i>sen</i></div>
 
 *adverb*  
 **Definition :** after  

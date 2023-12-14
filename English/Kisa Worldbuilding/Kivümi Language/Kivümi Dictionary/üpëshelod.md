@@ -1,7 +1,7 @@
 
 # üpëshelod
 
-<div align="right"><i>ypœʃælod</i></div>
+<div align="right"><i>ypəʃelod</i></div>
 
 *numeral*  
 **Definition :** twenty seven  

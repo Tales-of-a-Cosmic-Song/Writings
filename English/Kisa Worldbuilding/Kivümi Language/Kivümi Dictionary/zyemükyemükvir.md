@@ -1,7 +1,7 @@
 
 # zyemükyemükvir
 
-<div align="right"><i>zjæmykjæmykvir</i></div>
+<div align="right"><i>zjemykjemykvir</i></div>
 
 *verb*  
 **Definition :** to murder  

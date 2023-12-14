@@ -1,7 +1,7 @@
 
 # jë
 
-<div align="right"><i>ʐœ</i></div>
+<div align="right"><i>ʒə</i></div>
 
 *noun*  
 **Definition :** fat  

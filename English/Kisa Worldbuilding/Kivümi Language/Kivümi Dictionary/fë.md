@@ -1,7 +1,7 @@
 
 # fë
 
-<div align="right"><i>fœ</i></div>
+<div align="right"><i>fə</i></div>
 
 *noun*  
 **Definition :** split  

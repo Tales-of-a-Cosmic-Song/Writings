@@ -1,7 +1,7 @@
 
 # jü
 
-<div align="right"><i>ʐy</i></div>
+<div align="right"><i>ʒy</i></div>
 
 *noun*  
 **Definition :** north  

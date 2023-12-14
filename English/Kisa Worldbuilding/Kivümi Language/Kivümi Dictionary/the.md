@@ -1,7 +1,7 @@
 
 # the
 
-<div align="right"><i>θæ</i></div>
+<div align="right"><i>θe</i></div>
 
 *noun*  
 **Definition :** salt  

@@ -1,7 +1,7 @@
 
 # yemük
 
-<div align="right"><i>jæmyk</i></div>
+<div align="right"><i>jemyk</i></div>
 
 *noun*  
 **Definition :** death  

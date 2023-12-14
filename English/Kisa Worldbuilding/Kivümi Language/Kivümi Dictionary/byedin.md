@@ -1,7 +1,7 @@
 
 # byedin
 
-<div align="right"><i>bjædin</i></div>
+<div align="right"><i>bjedin</i></div>
 
 *adjective*  
 **Definition :** high  

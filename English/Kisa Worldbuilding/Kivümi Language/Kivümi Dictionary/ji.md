@@ -1,7 +1,7 @@
 
 # ji
 
-<div align="right"><i>ʐi</i></div>
+<div align="right"><i>ʒi</i></div>
 
 *noun*  
 **Definition :** south  

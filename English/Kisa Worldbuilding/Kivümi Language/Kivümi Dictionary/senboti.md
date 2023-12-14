@@ -1,7 +1,7 @@
 
 # senboti
 
-<div align="right"><i>sænboti</i></div>
+<div align="right"><i>senboti</i></div>
 
 *adverb*  
 **Definition :** tomorrow  

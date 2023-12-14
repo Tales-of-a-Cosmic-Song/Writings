@@ -1,7 +1,7 @@
 
  # tye
 
-<div align="right"><i>tjæ</i></div>
+<div align="right"><i>tje</i></div>
 
 *noun*  
 **Definition :** coldness  

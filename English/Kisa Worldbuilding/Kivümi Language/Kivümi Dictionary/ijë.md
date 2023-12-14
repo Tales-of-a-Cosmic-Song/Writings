@@ -1,7 +1,7 @@
 
 # ijë
 
-<div align="right"><i>iʐœ</i></div>
+<div align="right"><i>iʒə</i></div>
 
 *noun*  
 **Definition :** orange (color)  

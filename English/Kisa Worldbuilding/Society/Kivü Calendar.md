@@ -24,46 +24,46 @@ Each year(boshwognü, kna) is split into four months called boshwos, lasting 90 
 
 ### 1.3. Week - [shwomö](../Kivümi%20Language/Kivümi%20Dictionary/shwomö.md)
 
-Each month(boshwo) is split into 6 weeks called shwomös, lasting 15 days each.  
+Each month(boshwo) is split into 6 weeks called shwomôs, lasting 15 days each.  
 They are named using their number with the -d suffix removed and replaced by the -shwomö suffix.  
-  1. iloshwomö
-  2. eloshwomö
-  3. oloshwomö
-  4. etüloshwomö
-  5. adïloshwomö
-  6. ebeloshwomö
+  1. iloshwomô
+  2. eloshwomô
+  3. oloshwomô
+  4. etüloshwomô
+  5. adïloshwomô
+  6. ebeloshwomô
 
 ### 1.4. Day - [nuti](../Kivümi%20Language/Kivümi%20Dictionary/nuti.md)
 
-Each week(shwomö) is split into 15 days called nutis.  
+Each week(shwomô) is split into 15 days called nutis.  
 They are named using their number with the -d suffix removed and replaced by the -nuti suffix.
   1. ilonuti
   2. elonuti
   3. olonuti
   4. etülonuti
-  5. adïlonuti
+  5. adîlonuti
   6. ebelonuti
   7. othelonuti
   8. ubelonuti
   9. utülonuti
   10. atolonuti
   11. ethilonuti
-  12. ïdalonuti
-  13. özolonuti
-  14. eyïlonuti
-  15. ulïdelonuti
+  12. îdalonuti
+  13. ôzolonuti
+  14. eyîlonuti
+  15. ulîdelonuti
 
 ## 2. Displays of Time
 
 Time can be written in either a long form using, in this order :  
 1. the name of the day, nuti
-2. the name of the week, shwomö
+2. the name of the week, shwomô
 3. the name of the month, boshwo
 4. the name of the year, kna, boshwognü
 It can also be written in a short form using numbers separated by dots(ey) in the same order as the long form.
 
 The first day of the first week of the first month of the first year would be :
 - In long form :
-  - ilonuti iloshwomö nubyevi ilokna
+  - ilonuti iloshwomô nubyevi ilokna
 - In short form :
   - 1.1.1.1

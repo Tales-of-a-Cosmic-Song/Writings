@@ -1,7 +1,7 @@
 
 # gne
 
-<div align="right"><i>ɲæ</i></div>
+<div align="right"><i>ɲe</i></div>
 
 *noun*  
 **Definition :** laugh  

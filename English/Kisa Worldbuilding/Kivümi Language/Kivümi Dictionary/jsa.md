@@ -1,7 +1,7 @@
 
 # jsa
 
-<div align="right"><i>ʐsa</i></div>
+<div align="right"><i>ʒsa</i></div>
 
 *noun*  
 **Definition :** advancement, progress  

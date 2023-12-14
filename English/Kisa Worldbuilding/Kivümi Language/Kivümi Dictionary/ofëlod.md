@@ -1,7 +1,7 @@
 
 # ofëlod
 
-<div align="right"><i>ofœlod</i></div>
+<div align="right"><i>ofəlod</i></div>
 
 *numeral*  
 **Definition :** twenty five  

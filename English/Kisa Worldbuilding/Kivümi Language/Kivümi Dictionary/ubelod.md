@@ -1,7 +1,7 @@
 
 # ubelod
 
-<div align="right"><i>ubælod</i></div>
+<div align="right"><i>ubelod</i></div>
 
 *numeral*  
 **Definition :** eight  

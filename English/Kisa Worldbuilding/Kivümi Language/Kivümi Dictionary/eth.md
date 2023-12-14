@@ -1,7 +1,7 @@
 
 # eth
 
-<div align="right"><i>æθ</i></div>
+<div align="right"><i>eθ</i></div>
 
 *determiner*  
 **Definition :** several  

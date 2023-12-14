@@ -1,7 +1,7 @@
 
 # ye
 
-<div align="right"><i>jæ</i></div>
+<div align="right"><i>je</i></div>
 
 *noun*  
 **Definition :** life  

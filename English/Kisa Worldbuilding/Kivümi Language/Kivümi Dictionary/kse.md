@@ -1,7 +1,7 @@
 
 # kse
 
-<div align="right"><i>ksæ</i></div>
+<div align="right"><i>kse</i></div>
 
 *noun*  
 **Definition :** grass  

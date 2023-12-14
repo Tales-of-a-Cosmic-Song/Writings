@@ -1,7 +1,7 @@
 
 # senati
 
-<div align="right"><i>sænati</i></div>
+<div align="right"><i>senati</i></div>
 
 *noun*  
 **Definition :** future  

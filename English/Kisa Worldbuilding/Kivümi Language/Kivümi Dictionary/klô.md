@@ -1,0 +1,13 @@
+
+# klô
+
+<div align="right"><i>klɔ̃</i></div>
+
+*noun*  
+**Definition :** emptyness  
+
+---
+
+[Kivümi Language](../README.md)
+
+---

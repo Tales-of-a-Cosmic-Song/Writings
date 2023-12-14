@@ -1,0 +1,13 @@
+
+# kô
+
+<div align="right"><i>kɔ̃</i></div>
+
+*noun*  
+**Definition :** narrowness  
+
+---
+
+[Kivümi Language](../README.md)
+
+---

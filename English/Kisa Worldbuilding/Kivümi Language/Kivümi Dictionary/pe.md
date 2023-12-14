@@ -1,7 +1,7 @@
 
 # pe
 
-<div align="right"><i>pæ</i></div>
+<div align="right"><i>pe</i></div>
 
 *noun*  
 **Definition :** wing  

@@ -1,7 +1,7 @@
 
 # ge
 
-<div align="right"><i>gæ</i></div>
+<div align="right"><i>ge</i></div>
 
 *noun*  
 **Definition :** rope  

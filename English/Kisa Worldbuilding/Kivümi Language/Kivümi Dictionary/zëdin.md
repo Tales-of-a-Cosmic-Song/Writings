@@ -1,7 +1,7 @@
 
 # zëdin
 
-<div align="right"><i>zœdin</i></div>
+<div align="right"><i>zədin</i></div>
 
 *adjective*  
 **Definition :** dangerous  

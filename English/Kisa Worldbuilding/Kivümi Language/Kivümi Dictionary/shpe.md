@@ -1,7 +1,7 @@
 
 # shpe
 
-<div align="right"><i>ʃpæ</i></div>
+<div align="right"><i>ʃpe</i></div>
 
 *noun*  
 **Definition :** sound  

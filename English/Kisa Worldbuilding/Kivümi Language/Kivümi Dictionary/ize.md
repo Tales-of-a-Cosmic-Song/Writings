@@ -1,7 +1,7 @@
 
 # ize
 
-<div align="right"><i>izæ</i></div>
+<div align="right"><i>ize</i></div>
 
 *noun*  
 **Definition :** magenta  

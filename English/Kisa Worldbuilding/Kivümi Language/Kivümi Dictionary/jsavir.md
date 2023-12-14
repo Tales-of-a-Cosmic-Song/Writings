@@ -1,7 +1,7 @@
 
 # jsavir
 
-<div align="right"><i>ʐsavir</i></div>
+<div align="right"><i>ʒsavir</i></div>
 
 *verb*  
 **Definition :** to advance, to progress  

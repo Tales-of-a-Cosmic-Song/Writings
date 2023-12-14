@@ -1,7 +1,7 @@
 
 # letboti
 
-<div align="right"><i>lætboti</i></div>
+<div align="right"><i>letboti</i></div>
 
 *adverb*  
 **Definition :** yesterday  

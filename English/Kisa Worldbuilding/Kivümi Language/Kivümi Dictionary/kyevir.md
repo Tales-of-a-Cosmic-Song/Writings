@@ -1,7 +1,7 @@
 
 # kyevir
 
-<div align="right"><i>kjævir</i></div>
+<div align="right"><i>kjevir</i></div>
 
 *verb*  
 **Definition :** to love  

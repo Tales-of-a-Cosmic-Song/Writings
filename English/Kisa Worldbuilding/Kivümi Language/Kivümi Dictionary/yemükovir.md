@@ -1,7 +1,7 @@
 
 # yemükovir
 
-<div align="right"><i>jæmykovir</i></div>
+<div align="right"><i>jemykovir</i></div>
 
 *verb*  
 **Definition :** to kill  

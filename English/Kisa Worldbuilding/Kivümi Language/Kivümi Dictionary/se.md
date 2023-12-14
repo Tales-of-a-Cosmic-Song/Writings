@@ -1,7 +1,7 @@
 
 # se
 
-<div align="right"><i>sæ</i></div>
+<div align="right"><i>se</i></div>
 
 *noun*  
 **Definition :** nearness  

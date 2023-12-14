@@ -1,7 +1,7 @@
 
 # kevir
 
-<div align="right"><i>kævir</i></div>
+<div align="right"><i>kevir</i></div>
 
 *verb*  
 **Definition :** to water, to drink  

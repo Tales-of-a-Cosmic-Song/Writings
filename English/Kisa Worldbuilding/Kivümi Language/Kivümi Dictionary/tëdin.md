@@ -1,7 +1,7 @@
 
-# tödin
+# tëdin
 
-<div align="right">tœdin<i></i></div>
+<div align="right">tədin<i></i></div>
 
 *adjective*  
 **Definition :** short  

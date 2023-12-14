@@ -1,7 +1,7 @@
 
 # bel
 
-<div align="right"><i>bæl</i></div>
+<div align="right"><i>bel</i></div>
 
 *question word*  
 **Definition :** what  

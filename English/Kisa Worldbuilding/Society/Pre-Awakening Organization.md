@@ -16,7 +16,7 @@ Each role could be achieved by multiple kivüs at a time, ensuring redundancy.
 		- 1024 field Botanists.
 	- 2 Geologists
 		- 512 field Geologists.
-	- 2 Messengers (Moving copies of the Archivists' rëgi to [Shökrodo](../Characters/Shökrodo.md) for the central Tower of History and bring back information from the other regions).
+	- 2 Messengers (Moving copies of the Archivists' rëgi to [Shôkrodo](../Characters/Shôkrodo.md) for the central Tower of History and bring back information from the other regions).
 		- 512 field Messengers.
 - Shökrodo has a slightly different task force :
 	- 2 Planners.

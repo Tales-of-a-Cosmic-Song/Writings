@@ -1,7 +1,7 @@
 
 # yekiyeke
 
-<div align="right"><i>jækijækæ</i></div>
+<div align="right"><i>jekijeke</i></div>
 
 *noun*  
 **Definition :** [yeki](yeki.md) extract  

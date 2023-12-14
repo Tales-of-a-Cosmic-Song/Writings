@@ -35,7 +35,7 @@ Believe that the Engineers do not care about the kivüs and even forgot about th
 
 #### 1.2.3. The Purpose of Dead Stars
 
-"tsasol rya dödin noth"
+"tsasol rya dôdin noth"
 
 Believe that the Engineers are all dead and that there is no purpose in life.  
 

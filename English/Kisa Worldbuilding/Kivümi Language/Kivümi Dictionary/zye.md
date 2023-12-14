@@ -1,7 +1,7 @@
 
 # zye
 
-<div align="right"><i>zjæ</i></div>
+<div align="right"><i>zje</i></div>
 
 *noun*  
 **Definition :** law  

@@ -1,7 +1,7 @@
 
 # kebü
 
-<div align="right"><i>kæby</i></div>
+<div align="right"><i>keby</i></div>
 
 *noun*  
 **Definition :** river  

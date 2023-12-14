@@ -1,7 +1,7 @@
 
 # re
 
-<div align="right"><i>ræ</i></div>
+<div align="right"><i>re</i></div>
 
 *pronoun*  
 **Definition :** you (singular)  

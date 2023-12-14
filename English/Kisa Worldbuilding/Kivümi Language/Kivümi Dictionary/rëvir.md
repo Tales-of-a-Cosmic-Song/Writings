@@ -1,7 +1,7 @@
 
 # rëvir
 
-<div align="right"><i>rœvir</i></div>
+<div align="right"><i>rəvir</i></div>
 
 *verb*  
 **Definition :** to speak  

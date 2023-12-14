@@ -1,7 +1,7 @@
 
 # gshë
 
-<div align="right"><i>gʃœ</i></div>
+<div align="right"><i>gʃə</i></div>
 
 *noun*  
 **Definition :** truth  

@@ -1,7 +1,7 @@
 
 # pëdo
 
-<div align="right"><i>pœdo</i></div>
+<div align="right"><i>pədo</i></div>
 
 *noun*  
 **Definition :** first name  

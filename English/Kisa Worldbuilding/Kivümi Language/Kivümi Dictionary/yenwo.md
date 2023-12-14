@@ -1,7 +1,7 @@
 
 # yenwo
 
-<div align="right"><i>jænwo</i></div>
+<div align="right"><i>jenwo</i></div>
 
 *noun*  
 **Definition :** life energy  

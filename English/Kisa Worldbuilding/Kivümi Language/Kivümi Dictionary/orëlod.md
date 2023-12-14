@@ -1,7 +1,7 @@
 
 # orëlod
 
-<div align="right"><i>orœlod</i></div>
+<div align="right"><i>orəlod</i></div>
 
 *numeral*  
 **Definition :** twenty eight  

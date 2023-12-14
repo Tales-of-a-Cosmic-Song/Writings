@@ -1,7 +1,7 @@
 
 # së
 
-<div align="right"><i>sœ</i></div>
+<div align="right"><i>sə</i></div>
 
 *noun*  
 **Definition :** correctness  

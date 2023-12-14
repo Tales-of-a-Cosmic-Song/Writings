@@ -1,7 +1,7 @@
 
 # eka
 
-<div align="right"><i>æka</i></div>
+<div align="right"><i>eka</i></div>
 
 *pronoun*  
 **Definition :** his, her  

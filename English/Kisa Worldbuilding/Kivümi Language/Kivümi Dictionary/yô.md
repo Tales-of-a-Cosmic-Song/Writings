@@ -1,0 +1,13 @@
+
+# yô
+
+<div align="right"><i>jɔ̃</i></div>
+
+*preposition*  
+**Definition :** for  
+
+---
+
+[Kivümi Language](../README.md)
+
+---

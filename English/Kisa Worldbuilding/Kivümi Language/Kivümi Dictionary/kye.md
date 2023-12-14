@@ -1,7 +1,7 @@
 
 # kye
 
-<div align="right"><i>kjæ</i></div>
+<div align="right"><i>kje</i></div>
 
 *noun*  
 **Definition :** love  

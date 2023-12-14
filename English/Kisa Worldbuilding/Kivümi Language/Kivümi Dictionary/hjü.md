@@ -1,7 +1,7 @@
 
 # hjü
 
-<div align="right"><i>hʐy</i></div>
+<div align="right"><i>hʒy</i></div>
 
 *noun*  
 **Definition :** lostness  

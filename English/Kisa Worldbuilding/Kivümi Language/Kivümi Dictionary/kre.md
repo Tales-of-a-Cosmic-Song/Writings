@@ -1,7 +1,7 @@
 
 # kre
 
-<div align="right"><i>kræ</i></div>
+<div align="right"><i>kre</i></div>
 
 *noun*
 **Definition :** will

@@ -1,7 +1,7 @@
 
 # ja
 
-<div align="right"><i>ʐa</i></div>
+<div align="right"><i>ʒa</i></div>
 
 *noun*  
 **Definition :** west  

@@ -1,7 +1,7 @@
 
 # kwedin
 
-<div align="right"><i>kwædin</i></div>
+<div align="right"><i>kwedin</i></div>
 
 *adjective*  
 **Definition :** straight  

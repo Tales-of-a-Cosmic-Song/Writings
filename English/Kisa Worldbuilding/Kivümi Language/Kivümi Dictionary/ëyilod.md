@@ -1,7 +1,7 @@
 
 # ëyilod
 
-<div align="right"><i>œjilod</i></div>
+<div align="right"><i>əjilod</i></div>
 
 *numeral*  
 **Definition :** thirty one  

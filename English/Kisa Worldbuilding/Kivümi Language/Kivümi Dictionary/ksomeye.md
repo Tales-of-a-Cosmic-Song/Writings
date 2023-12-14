@@ -1,7 +1,7 @@
 
 # ksomeye
 
-<div align="right"><i>ksomæjæ</i></div>
+<div align="right"><i>ksomeje</i></div>
 
 *noun*  
 **Definition :** bird  

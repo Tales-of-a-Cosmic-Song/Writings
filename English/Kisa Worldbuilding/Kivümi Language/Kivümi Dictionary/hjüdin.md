@@ -1,7 +1,7 @@
 
 # hjüdin
 
-<div align="right"><i>hʐydin</i></div>
+<div align="right"><i>hʒydin</i></div>
 
 *adjective*  
 **Definition :** lost  

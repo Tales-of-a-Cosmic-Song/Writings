@@ -1,7 +1,7 @@
 
 # meye
 
-<div align="right"><i>mæjæ</i></div>
+<div align="right"><i>meje</i></div>
 
 *noun*  
 **Definition :** animal  

@@ -1,7 +1,7 @@
 
+# sye  
 
-# sye
-<div align="right"><i>sjæ</i></div>
+<div align="right"><i>sje</i></div>
 
 *noun*  
 **Definition :** path  

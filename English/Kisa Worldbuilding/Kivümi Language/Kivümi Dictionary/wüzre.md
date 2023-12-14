@@ -1,7 +1,7 @@
 
 # wüzre
 
-<div align="right"><i>wyzræ</i></div>
+<div align="right"><i>wyzre</i></div>
 
 *noun*  
 **Definition :** government, organization (of people)  

@@ -1,7 +1,7 @@
 
 # tyë
 
-<div align="right"><i>tjœ</i></div>
+<div align="right"><i>tjə</i></div>
 
 *preposition*  
 **Definition :** by  

@@ -1,7 +1,7 @@
 
 # ëshe
 
-<div align="right"><i>œʃæ</i></div>
+<div align="right"><i>əʃe</i></div>
 
 *noun*  
 **Definition :** red  
