@@ -1,6 +1,6 @@
 # The Collapse of the Stars
 
-In the depths of the void, my matter is born,  
+In the depths of the void, my matter was born,  
 Nebulae of chaos and indecision,  
 Colored stars with planetary notes.  
 I am the echo of all my creations.  
