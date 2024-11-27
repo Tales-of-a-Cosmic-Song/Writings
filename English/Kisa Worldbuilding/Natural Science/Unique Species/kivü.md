@@ -3,7 +3,7 @@
 
 <div align="right"><i>kivy</i></div>
 
-*noun*
+*noun*  
 **Definition :** The kivü are a sentient humanoid species living all over the island of [Kisa](../../Kivümi%20Language/Kivümi%20Dictionary/Kisa.md)  
 
 ---

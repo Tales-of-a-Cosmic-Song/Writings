@@ -112,4 +112,4 @@ The 30 000 years that follow the end of the Time of the Kivüs, before a new civ
 The planet trembles from Hepîpü Shômükmyo's sacrifice, causing massive earthquakes that slowly reshape the land and give birth to 3 yenwo volcanoes on the Northern continent.  
 The kivüs that survived after their exile slowly change, mutating and giving birth to a new form of life.  
 
-Meanwhile on Kisa, the remains of the yekis regain some powers and begin birthing creatures again, but these attempts at creating kivüs again is a failure as what comes out are the [deformed](<./Society/Factions During the Time of Doom.md#2-the-deformed>), abominations who will live short lives of pain and loneliness.
+Meanwhile on Kisa, the remains of the yekis regain some powers and begin birthing creatures again, but these attempts at creating kivüs once more are a failure and make the [deformed](<./Society/Factions During the Time of Doom.md#2-the-deformed>), abominations who will live short lifes of pain and loneliness.
