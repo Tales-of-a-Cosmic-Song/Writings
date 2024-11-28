@@ -19,6 +19,8 @@ Example :
 Most basic concept nouns are words of only one syllable ending with a vowel.  
 More complex ones are usually combinations of multiple simple concept nouns.  
 
+Can make a past participle noun from a verb by changing the -vir suffix with -vag.  
+
 ## 2. Antonyms, Superlative, Definiteness and Plural
 
 We can form antonyms from nouns and adjectives by adding the suffix -mük, if used on adjectives it is always used before the -din suffix.  

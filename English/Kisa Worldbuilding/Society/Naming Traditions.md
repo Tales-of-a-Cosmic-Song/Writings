@@ -7,7 +7,7 @@ Called [pëdo](../Kivümi%20Language/Kivümi%20Dictionary/pëdo.md), they don't 
 
 ## 2. Second Names
 
-Called [pëye](../Kivümi%20Language/Kivümi%20Dictionary/pëye.md), they were given after the Great Awakening to all the [kivüs] but also to the [yekis](../Kivümi%20Language/Kivümi%20Dictionary/yeki.md), they are related to the acts of their owner in life.  
+Called [pëye](../Kivümi%20Language/Kivümi%20Dictionary/pëye.md), they were given after the Great Awakening to all the [kivüs](../Kivümi%20Language/Kivümi%20Dictionary/kivü.md) but also to the [yekis](../Kivümi%20Language/Kivümi%20Dictionary/yeki.md), they are related to the acts of their owner in life.  
 They are built using a main noun followed by, usually, adjectives in their noun form.  
 
 Examples :
