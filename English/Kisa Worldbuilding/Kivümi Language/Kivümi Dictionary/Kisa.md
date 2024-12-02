@@ -13,7 +13,7 @@ tree + home
 
 ---
 
-![Kisa](../../Pictures/Maps/KisaPrototype.png)
+![Kisa during the Time of Doom](../../Pictures/Maps/Map%200.5%20Time%20of%20Doom.png)
 
 ---
 
