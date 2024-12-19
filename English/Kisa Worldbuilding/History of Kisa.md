@@ -107,9 +107,15 @@ By the time that beacon would expel the last of Hepîpü Shômükmyo's energy, a
 
 ## 3. Time of Doom
 
-The 30 000 years that follow the end of the Time of the Kivüs, before a new civilization could emerge on an other continent, far to the North.  
+The 30 000 years following the end of the Time of the Kivüs, before a new civilization could emerge on an other continent, far to the North.  
 
-The planet trembles from Hepîpü Shômükmyo's sacrifice, causing massive earthquakes that slowly reshape the land and give birth to 3 yenwo volcanoes on the Northern continent.  
+The planet trembles from Hepîpü Shômükmyo's sacrifice, causing massive earthquakes that slowly reshape the land and give birth to 3 yenwo volcanoes on the Northern Continent.  
 The kivüs that survived after their exile slowly change, mutating and giving birth to a new form of life.  
 
-Meanwhile on Kisa, the remains of the yekis regain some powers and begin birthing creatures again, but these attempts at creating kivüs once more are a failure and make the [deformed](<./Society/Factions During the Time of Doom.md#2-the-deformed>), abominations who will live short lifes of pain and loneliness.
+Meanwhile on Kisa the remains of the yekis regain some powers and begin birthing creatures again, but these attempts at creating kivüs once more are a failure and make the [thtomüks](<./Society/Factions During the Time of Doom.md#2-the-thtomüks>), deformed abominations who live short lifes of pain and loneliness.  
+
+## 4. Time of Men
+
+The cataclysm caused by Hepîpü Shômükmyo formed a massive storm surrounding Kisa, stopping any civilization from travelling to Kisa.  
+Until a very long time has passed and Hepîpu's body has released all the yenwo it contained, then the storm calms and the advanced civilization of Men from the Northern Continent can finally reach Kisa.  
+The yeki remains are now clearly dead and the thtomüks most likely vanished long ago.  
