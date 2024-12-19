@@ -30,9 +30,9 @@ Textes uniquement en Français.
 
 Writings © 2018-present by Tales of a Cosmic Song are licensed under CC-BY-SA-4.0
 
-<!-- SPDX-License-Identifier: CC-BY-SA-4.0 -->
+<!-- SPDX-License-Identifier: CC-BY-4.0 -->
 
-## [CC-BY-SA-4.0](LICENSE)
+## [CC-BY-4.0](LICENSE)
 
 You are free to:
 
@@ -43,7 +43,6 @@ You are free to:
 Under the following terms:
 
     Attribution - You must give appropriate credit , provide a link to the license, and indicate if changes were made . You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-    ShareAlike - If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
     No additional restrictions - You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
 Notices:
